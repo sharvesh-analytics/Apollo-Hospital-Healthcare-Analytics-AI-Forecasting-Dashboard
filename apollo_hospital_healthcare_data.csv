@@ -1,0 +1,1001 @@
+Patient_ID,Patient_Name,Age,Gender,City,Department,Disease,Doctor,Admission_Type,Admit_Date,Discharge_Date,Stay_Days,Bill_Amount,Insurance,Rating,Follow_Up
+10001,Sean Chambers,18,Male,Hyderabad,Neurology,Migraine,Dr. Kayla,Emergency,2025-05-21,2025-05-25,4,63513,No,2.6,Yes
+10002,Patricia Reed,72,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Cody,Normal,2025-09-16,2025-09-26,10,11956,Yes,3.6,No
+10003,George Kennedy,36,Male,Mumbai,Cardiology,Heart Attack,Dr. Robert,Normal,2025-12-24,2025-12-31,7,94194,Yes,2.7,Yes
+10004,Alex Anderson,6,Female,Pune,Oncology,Tumor,Dr. John,Emergency,2025-11-06,2025-11-11,5,216583,No,2.7,No
+10005,Leslie Bean,6,Male,Bhopal,Oncology,Leukemia,Dr. Stephanie,Emergency,2025-04-09,2025-04-21,12,23233,Yes,4.7,No
+10006,Michelle Smith,21,Female,Bhopal,Pediatrics,Cold,Dr. Shari,Emergency,2025-11-22,2025-12-06,14,100638,No,4.3,Yes
+10007,Timothy Davenport,49,Female,Hyderabad,Orthopedics,Arthritis,Dr. Casey,Emergency,2025-05-06,2025-05-09,3,126178,No,4.6,Yes
+10008,Natalie Mckinney,9,Male,Pune,Dermatology,Skin Allergy,Dr. Drew,Normal,2025-06-11,2025-06-18,7,75186,Yes,4.1,No
+10009,Margaret Reyes,72,Female,Hyderabad,General Medicine,Diabetes,Dr. Leslie,Normal,2025-05-16,2025-05-19,3,69651,No,3.4,Yes
+10010,Keith Duke,20,Male,Hyderabad,General Medicine,Diabetes,Dr. Frank,Normal,2025-01-25,2025-02-08,14,33743,Yes,3.5,No
+10011,Dennis Martinez,15,Female,Hyderabad,Pediatrics,Asthma,Dr. Kathy,Normal,2025-01-06,2025-01-17,11,193932,Yes,3.2,Yes
+10012,Jason Cook,23,Male,Hyderabad,General Medicine,Diabetes,Dr. Stephanie,Normal,2025-05-15,2025-05-24,9,204743,Yes,2.9,Yes
+10013,Justin Oconnor,15,Female,Bhopal,Cardiology,Chest Pain,Dr. Karen,Emergency,2025-06-15,2025-06-23,8,10105,Yes,3.1,Yes
+10014,Isaac Austin,69,Male,Mumbai,Neurology,Epilepsy,Dr. Kevin,Normal,2025-09-06,2025-09-20,14,23143,Yes,3.2,No
+10015,Robert Thomas,40,Female,Hyderabad,Dermatology,Eczema,Dr. Danielle,Normal,2025-12-20,2025-12-24,4,191895,No,4.7,No
+10016,Peter Marquez,3,Male,Pune,Neurology,Migraine,Dr. Jackie,Emergency,2025-04-26,2025-04-28,2,93627,Yes,2.7,Yes
+10017,Maria Wilkins,10,Male,Bhopal,Dermatology,Skin Allergy,Dr. Daniel,Normal,2025-01-17,2025-01-31,14,91619,Yes,3.8,No
+10018,Grace Grant,13,Female,Bhopal,Dermatology,Acne,Dr. Danielle,Normal,2025-07-28,2025-08-01,4,29726,No,3.7,Yes
+10019,Robert Cruz,14,Male,Mumbai,Neurology,Migraine,Dr. Gabriel,Emergency,2025-07-26,2025-08-07,12,93946,No,2.9,Yes
+10020,Laurie Jones,10,Female,Pune,Pediatrics,Cold,Dr. Travis,Emergency,2025-05-08,2025-05-22,14,247028,Yes,4.1,Yes
+10021,Monica Cisneros,62,Male,Indore,Neurology,Migraine,Dr. Joanne,Emergency,2025-03-27,2025-04-03,7,132307,Yes,3.4,No
+10022,Robert Moreno,72,Female,Mumbai,Pediatrics,Cold,Dr. William,Emergency,2025-05-27,2025-06-03,7,187607,No,3.0,Yes
+10023,Christopher Barnes,75,Female,Pune,Cardiology,Chest Pain,Dr. Mike,Emergency,2025-06-10,2025-06-11,1,18144,Yes,4.9,Yes
+10024,Tammy Schmidt,31,Female,Delhi,Orthopedics,Fracture,Dr. Travis,Emergency,2025-11-01,2025-11-03,2,182002,Yes,4.0,No
+10025,Daniel Hernandez,41,Male,Bhopal,Oncology,Tumor,Dr. Danielle,Normal,2025-04-15,2025-04-26,11,192745,Yes,4.2,No
+10026,Robert Nelson,80,Male,Delhi,General Medicine,Viral Fever,Dr. Lisa,Emergency,2025-02-07,2025-02-08,1,125136,No,2.8,No
+10027,Ashley Watts,57,Female,Pune,Neurology,Migraine,Dr. Kathleen,Emergency,2025-07-09,2025-07-14,5,46352,No,4.8,Yes
+10028,Colleen Lewis,71,Male,Bhopal,Orthopedics,Back Pain,Dr. Garrett,Normal,2025-03-01,2025-03-16,15,33058,Yes,4.3,Yes
+10029,Mr. Tyler Andrews,7,Male,Hyderabad,Pediatrics,Asthma,Dr. Harold,Normal,2025-09-08,2025-09-13,5,242328,No,2.6,No
+10030,Matthew Newton,57,Female,Pune,Orthopedics,Arthritis,Dr. Sandra,Emergency,2025-05-15,2025-05-18,3,199309,Yes,2.7,Yes
+10031,Steven Parker,56,Male,Delhi,Cardiology,High BP,Dr. Melinda,Normal,2025-10-26,2025-11-04,9,43821,No,4.7,Yes
+10032,Alexandria Chavez,14,Female,Pune,Oncology,Cancer,Dr. Natasha,Normal,2025-12-16,2025-12-20,4,179832,Yes,4.8,Yes
+10033,Dustin Roberts,43,Female,Hyderabad,Orthopedics,Fracture,Dr. Mary,Emergency,2025-07-31,2025-08-01,1,52018,No,2.9,Yes
+10034,Craig Wong,59,Female,Bhopal,ENT,Ear Infection,Dr. Zachary,Emergency,2025-08-29,2025-09-02,4,57316,Yes,2.6,Yes
+10035,Karen Johnson,36,Female,Hyderabad,ENT,Sinus,Dr. Kimberly,Normal,2025-05-23,2025-06-06,14,23198,No,4.8,Yes
+10036,Kelly Paul,14,Female,Bhopal,Pediatrics,Fever,Dr. Christopher,Normal,2025-10-25,2025-10-30,5,15028,No,4.0,Yes
+10037,Lisa Green,56,Male,Pune,ENT,Throat Infection,Dr. Dennis,Emergency,2025-04-08,2025-04-13,5,16635,No,3.6,No
+10038,Jeffrey Hanna,39,Female,Hyderabad,Oncology,Leukemia,Dr. Gregory,Normal,2025-03-05,2025-03-17,12,240941,No,3.5,No
+10039,Thomas Roberts,87,Male,Pune,Orthopedics,Fracture,Dr. Kenneth,Normal,2025-08-04,2025-08-15,11,104390,No,3.9,Yes
+10040,Tiffany Davenport,75,Female,Indore,Pediatrics,Cold,Dr. Michelle,Normal,2025-04-18,2025-04-25,7,210981,No,4.2,No
+10041,Mark Bartlett,85,Female,Delhi,Orthopedics,Arthritis,Dr. Christine,Emergency,2025-02-13,2025-02-18,5,140122,No,3.1,Yes
+10042,Becky Lewis,79,Male,Indore,Orthopedics,Fracture,Dr. Kristin,Normal,2025-01-24,2025-01-28,4,129554,Yes,4.3,No
+10043,Joseph Harvey,89,Male,Delhi,General Medicine,Viral Fever,Dr. Bob,Normal,2025-05-05,2025-05-08,3,176981,Yes,2.9,No
+10044,Michelle Hernandez,16,Female,Mumbai,Cardiology,Chest Pain,Dr. John,Normal,2025-05-08,2025-05-23,15,227386,No,4.9,No
+10045,Bonnie Stephenson,61,Female,Bhopal,ENT,Throat Infection,Dr. Andrew,Emergency,2025-08-17,2025-09-01,15,46722,No,4.4,No
+10046,William Gardner,37,Male,Bhopal,Dermatology,Acne,Dr. Sandra,Normal,2025-08-14,2025-08-16,2,192051,No,4.7,Yes
+10047,Donna Jacobson,20,Male,Delhi,Orthopedics,Fracture,Dr. Caleb,Normal,2025-04-29,2025-05-06,7,186914,No,3.3,No
+10048,Heather Ruiz,50,Male,Pune,ENT,Ear Infection,Dr. David,Normal,2025-04-16,2025-04-30,14,115138,No,2.5,No
+10049,Albert Brown,70,Male,Indore,Pediatrics,Cold,Dr. Christopher,Emergency,2025-08-03,2025-08-12,9,200956,No,3.6,Yes
+10050,Jesse Mills,52,Male,Indore,ENT,Sinus,Dr. John,Emergency,2025-12-09,2025-12-20,11,214228,Yes,4.8,Yes
+10051,Renee Ross,60,Male,Delhi,Neurology,Epilepsy,Dr. Regina,Normal,2025-08-08,2025-08-11,3,232239,No,3.3,No
+10052,Mrs. Melinda Burgess,54,Female,Delhi,Oncology,Tumor,Dr. Catherine,Normal,2025-07-14,2025-07-19,5,202134,Yes,4.4,Yes
+10053,Amanda Long,84,Male,Delhi,Oncology,Cancer,Dr. Dawn,Emergency,2025-11-29,2025-12-01,2,209795,Yes,4.6,Yes
+10054,Mark Jones,73,Male,Indore,Dermatology,Skin Allergy,Dr. Claudia,Normal,2025-08-31,2025-09-11,11,34986,No,2.9,Yes
+10055,Christina Murphy,40,Female,Indore,Orthopedics,Back Pain,Dr. Bridget,Emergency,2025-02-25,2025-03-07,10,11731,Yes,4.0,Yes
+10056,Casey Davis,77,Male,Pune,Neurology,Epilepsy,Dr. Marc,Emergency,2025-06-04,2025-06-18,14,184374,No,3.8,No
+10057,Sandra Morrison,54,Female,Delhi,Neurology,Epilepsy,Dr. Mary,Normal,2025-11-28,2025-12-04,6,8316,No,4.1,No
+10058,Heather Gonzalez,84,Female,Pune,Orthopedics,Back Pain,Dr. James,Normal,2025-04-01,2025-04-13,12,141772,No,3.6,No
+10059,Jordan Holmes,58,Male,Indore,Oncology,Cancer,Dr. Cameron,Normal,2025-02-14,2025-02-19,5,236114,No,2.6,No
+10060,Brian Carlson,34,Female,Bhopal,Orthopedics,Back Pain,Dr. Amanda,Normal,2025-04-19,2025-04-25,6,214146,Yes,3.8,Yes
+10061,Erica Williams,31,Female,Hyderabad,Neurology,Migraine,Dr. Charles,Normal,2025-07-28,2025-08-05,8,150536,No,4.5,Yes
+10062,Catherine Russell,40,Female,Indore,Pediatrics,Fever,Dr. Sean,Normal,2025-07-27,2025-08-08,12,68780,No,5.0,No
+10063,Gerald Rosario,33,Male,Delhi,Oncology,Leukemia,Dr. Sara,Emergency,2025-08-21,2025-08-26,5,85379,No,2.8,Yes
+10064,Carol Perkins,76,Female,Delhi,Dermatology,Skin Allergy,Dr. Jack,Emergency,2025-09-05,2025-09-10,5,194945,No,3.1,Yes
+10065,Heather Massey,36,Male,Delhi,Pediatrics,Fever,Dr. Heidi,Normal,2025-12-29,2026-01-07,9,38182,Yes,4.1,No
+10066,Rebecca Montoya,62,Female,Bhopal,Neurology,Migraine,Dr. Chris,Emergency,2025-10-21,2025-10-26,5,128049,Yes,3.1,No
+10067,Kathleen Bradshaw,74,Male,Mumbai,Neurology,Migraine,Dr. James,Emergency,2025-07-25,2025-08-02,8,24420,No,2.7,Yes
+10068,Jacob Jenkins,80,Male,Pune,Neurology,Epilepsy,Dr. Carolyn,Normal,2025-08-02,2025-08-12,10,161271,No,4.8,No
+10069,Jennifer Brown,79,Male,Mumbai,ENT,Sinus,Dr. Brenda,Emergency,2025-10-19,2025-10-29,10,20789,No,4.2,Yes
+10070,David Gonzalez,1,Female,Indore,Dermatology,Skin Allergy,Dr. Amanda,Normal,2025-10-10,2025-10-12,2,46034,No,2.6,No
+10071,Joshua Carrillo,30,Female,Hyderabad,Pediatrics,Asthma,Dr. Kristen,Emergency,2025-08-21,2025-08-23,2,185193,No,2.8,Yes
+10072,Brittany Pearson,22,Female,Pune,Orthopedics,Back Pain,Dr. Tony,Normal,2025-03-14,2025-03-16,2,20633,No,2.8,No
+10073,Robert Garrison DDS,57,Male,Pune,ENT,Sinus,Dr. Charles,Emergency,2025-09-14,2025-09-23,9,134445,No,4.3,No
+10074,Antonio Steele,74,Male,Hyderabad,Cardiology,Heart Attack,Dr. Marcus,Normal,2025-04-28,2025-05-09,11,224141,Yes,4.4,Yes
+10075,Stacy Lyons,36,Male,Pune,General Medicine,Typhoid,Dr. Kathleen,Normal,2025-11-30,2025-12-08,8,245142,No,4.9,No
+10076,Andrea Wood,14,Male,Bhopal,Oncology,Tumor,Dr. Kristie,Normal,2025-06-20,2025-06-26,6,180671,No,3.2,No
+10077,Sue Roy,42,Male,Indore,Cardiology,High BP,Dr. Lindsay,Emergency,2025-02-15,2025-02-21,6,71164,No,3.5,Yes
+10078,Thomas Rowe,7,Male,Bhopal,Oncology,Leukemia,Dr. Cameron,Emergency,2025-09-13,2025-09-24,11,120878,No,3.6,No
+10079,Dustin Aguilar,31,Male,Bhopal,Neurology,Migraine,Dr. Jonathan,Emergency,2025-11-19,2025-11-29,10,214535,No,2.7,Yes
+10080,Daniel Bridges,64,Female,Pune,General Medicine,Diabetes,Dr. Don,Normal,2025-11-28,2025-12-12,14,45362,No,4.6,No
+10081,Shaun Sanchez,25,Male,Delhi,Dermatology,Acne,Dr. Robert,Normal,2025-10-10,2025-10-13,3,105554,No,3.3,No
+10082,Michelle Ingram,75,Female,Mumbai,Cardiology,High BP,Dr. Tina,Normal,2025-06-02,2025-06-16,14,158862,No,3.4,No
+10083,Brianna Smith,74,Female,Mumbai,General Medicine,Viral Fever,Dr. Crystal,Normal,2025-04-07,2025-04-19,12,67601,Yes,3.3,No
+10084,James Knox,84,Male,Indore,ENT,Sinus,Dr. Robert,Emergency,2025-12-06,2025-12-19,13,220154,Yes,3.8,No
+10085,Jason Allen,59,Male,Hyderabad,Neurology,Stroke,Dr. Maria,Emergency,2025-02-21,2025-03-02,9,243666,No,4.7,Yes
+10086,Kyle Howe,89,Female,Hyderabad,Neurology,Stroke,Dr. Lori,Emergency,2025-05-16,2025-05-22,6,168383,No,4.6,No
+10087,Thomas Salinas,5,Male,Mumbai,Oncology,Leukemia,Dr. David,Normal,2025-09-07,2025-09-21,14,146824,Yes,4.4,No
+10088,Juan Pittman,57,Male,Hyderabad,Neurology,Epilepsy,Dr. Margaret,Normal,2025-12-27,2026-01-10,14,31347,Yes,2.6,Yes
+10089,Audrey Grant,32,Female,Pune,Pediatrics,Cold,Dr. James,Emergency,2025-07-11,2025-07-18,7,43160,Yes,2.9,No
+10090,Brent Parker,60,Female,Indore,Dermatology,Acne,Dr. James,Normal,2025-10-26,2025-10-29,3,65866,Yes,4.7,No
+10091,Paige Moore,57,Female,Pune,Pediatrics,Asthma,Dr. Michelle,Normal,2025-10-07,2025-10-10,3,24362,No,4.2,No
+10092,Mrs. Rachel Jackson,14,Male,Indore,Pediatrics,Fever,Dr. Christine,Normal,2025-07-16,2025-07-30,14,131670,No,5.0,No
+10093,Christian Schneider,73,Male,Pune,Cardiology,Chest Pain,Dr. Steven,Normal,2025-07-22,2025-07-27,5,7122,No,4.4,Yes
+10094,Jennifer Barnes,33,Male,Hyderabad,Oncology,Cancer,Dr. Chad,Emergency,2025-11-22,2025-11-26,4,167762,Yes,3.3,No
+10095,Aaron Wilson,12,Female,Bhopal,Cardiology,Chest Pain,Dr. Christopher,Normal,2025-07-06,2025-07-18,12,39448,Yes,3.0,No
+10096,Kevin Fisher,62,Female,Hyderabad,Pediatrics,Fever,Dr. Eric,Normal,2025-05-12,2025-05-27,15,221187,Yes,3.7,Yes
+10097,Danielle Townsend,51,Female,Delhi,Orthopedics,Fracture,Dr. Veronica,Normal,2025-12-13,2025-12-25,12,181791,Yes,3.2,Yes
+10098,Dana Chen DVM,34,Female,Hyderabad,General Medicine,Viral Fever,Dr. Kimberly,Normal,2025-12-11,2025-12-23,12,181250,Yes,4.2,No
+10099,Francisco Washington,79,Male,Hyderabad,Cardiology,Chest Pain,Dr. Michael,Emergency,2025-10-15,2025-10-21,6,244928,No,4.8,No
+10100,Holly Lewis,39,Female,Delhi,ENT,Ear Infection,Dr. William,Emergency,2025-03-13,2025-03-14,1,14754,Yes,4.7,Yes
+10101,Madison Guzman,90,Female,Pune,ENT,Sinus,Dr. Thomas,Emergency,2025-07-09,2025-07-20,11,199809,No,4.1,No
+10102,Michael Olson,28,Female,Indore,ENT,Sinus,Dr. Natasha,Emergency,2025-01-17,2025-01-29,12,102132,No,2.7,No
+10103,Ryan Daugherty,16,Female,Delhi,Oncology,Cancer,Dr. Amy,Emergency,2025-07-23,2025-07-28,5,54757,Yes,2.6,No
+10104,Thomas Holland,71,Male,Pune,Dermatology,Skin Allergy,Dr. William,Emergency,2025-10-17,2025-10-21,4,22985,Yes,3.3,Yes
+10105,Donna Williams,33,Male,Delhi,Cardiology,High BP,Dr. Tony,Emergency,2025-03-16,2025-03-19,3,146614,Yes,2.5,Yes
+10106,Matthew Moore,17,Female,Pune,Oncology,Cancer,Dr. Kristina,Emergency,2025-03-31,2025-04-05,5,18736,Yes,3.7,No
+10107,Jimmy Peters,6,Female,Indore,Neurology,Stroke,Dr. Benjamin,Emergency,2025-09-15,2025-09-19,4,166246,Yes,5.0,No
+10108,Mark White,57,Male,Delhi,ENT,Throat Infection,Dr. Michael,Normal,2025-02-25,2025-03-05,8,191751,Yes,2.7,No
+10109,Laura Ali,59,Female,Delhi,Oncology,Tumor,Dr. Christopher,Emergency,2025-11-02,2025-11-11,9,82305,Yes,3.6,Yes
+10110,Dr. Marc Schmidt PhD,13,Female,Indore,ENT,Sinus,Dr. Theresa,Normal,2025-08-21,2025-08-28,7,114049,No,3.4,Yes
+10111,Daniel Adams,12,Female,Delhi,General Medicine,Diabetes,Dr. Lauren,Normal,2025-02-16,2025-03-02,14,27377,Yes,3.9,No
+10112,Teresa Kramer,55,Male,Bhopal,Neurology,Stroke,Dr. Shaun,Normal,2025-07-01,2025-07-15,14,179415,No,2.8,Yes
+10113,Alexander Stewart,14,Female,Pune,Orthopedics,Arthritis,Dr. Stephanie,Normal,2025-09-04,2025-09-08,4,227108,Yes,4.4,Yes
+10114,Kathleen Lamb,83,Male,Pune,ENT,Throat Infection,Dr. Virginia,Normal,2025-11-15,2025-11-25,10,181941,Yes,3.0,No
+10115,Debra Carr,19,Female,Delhi,Oncology,Tumor,Dr. Patricia,Emergency,2025-01-04,2025-01-07,3,233029,Yes,2.7,Yes
+10116,Stephanie Montgomery,48,Female,Hyderabad,ENT,Sinus,Dr. Michael,Normal,2025-08-21,2025-08-27,6,46263,Yes,4.7,Yes
+10117,James Tyler,35,Female,Hyderabad,Orthopedics,Arthritis,Dr. Taylor,Normal,2025-01-26,2025-02-06,11,26386,No,4.0,No
+10118,John Gilbert,56,Male,Bhopal,Pediatrics,Fever,Dr. Antonio,Normal,2025-09-20,2025-09-22,2,95484,No,2.6,No
+10119,Clayton White,18,Female,Bhopal,Cardiology,Heart Attack,Dr. Thomas,Normal,2025-04-15,2025-04-20,5,60373,Yes,2.5,No
+10120,Cory Murray,30,Female,Delhi,Orthopedics,Fracture,Dr. Jennifer,Normal,2025-07-14,2025-07-23,9,189463,Yes,3.6,No
+10121,Samuel White,52,Female,Bhopal,Neurology,Stroke,Dr. Lori,Emergency,2025-10-22,2025-10-29,7,155313,No,2.6,No
+10122,Kari Tran,47,Male,Indore,Orthopedics,Arthritis,Dr. Brandon,Emergency,2025-08-24,2025-09-07,14,185777,Yes,3.6,No
+10123,Emily Webb,29,Female,Mumbai,Neurology,Stroke,Dr. Yolanda,Emergency,2025-06-08,2025-06-20,12,94001,Yes,3.8,Yes
+10124,David Beck,31,Male,Mumbai,Oncology,Tumor,Dr. Richard,Normal,2025-11-27,2025-12-11,14,43716,Yes,2.9,Yes
+10125,Anthony Donovan,73,Female,Hyderabad,Neurology,Migraine,Dr. Julie,Normal,2025-11-18,2025-11-26,8,126622,No,2.9,Yes
+10126,Patty Haas,36,Male,Bhopal,General Medicine,Viral Fever,Dr. Ryan,Emergency,2025-11-20,2025-11-25,5,213753,No,3.7,Yes
+10127,Emily Munoz,12,Female,Indore,Cardiology,High BP,Dr. Kevin,Emergency,2025-05-27,2025-05-29,2,173995,No,4.8,Yes
+10128,Yvette Fitzpatrick,8,Female,Delhi,Oncology,Leukemia,Dr. Cindy,Normal,2025-09-01,2025-09-10,9,44547,Yes,3.8,Yes
+10129,Cheryl Andrews,68,Male,Bhopal,Cardiology,Heart Attack,Dr. Tracy,Normal,2025-12-29,2026-01-06,8,120191,No,3.5,No
+10130,Amber Jones DVM,43,Male,Pune,Cardiology,Chest Pain,Dr. Allison,Normal,2025-11-28,2025-12-04,6,22278,No,3.1,Yes
+10131,Daniel Garcia,45,Female,Hyderabad,Oncology,Cancer,Dr. Katie,Normal,2025-10-26,2025-11-06,11,42074,Yes,4.0,Yes
+10132,Shawna Alvarado,43,Male,Hyderabad,Pediatrics,Asthma,Dr. Rachael,Emergency,2025-07-12,2025-07-23,11,212529,No,3.8,Yes
+10133,Logan Trevino,63,Male,Mumbai,Oncology,Tumor,Dr. Wendy,Emergency,2025-04-03,2025-04-07,4,94583,Yes,2.7,Yes
+10134,David Nelson,80,Male,Pune,Cardiology,Chest Pain,Dr. Ronnie,Normal,2025-06-22,2025-07-07,15,205882,Yes,2.9,Yes
+10135,Mrs. Julie Garrett,31,Female,Pune,General Medicine,Diabetes,Dr. Gregory,Normal,2025-07-30,2025-08-05,6,182304,No,3.1,Yes
+10136,Robert Mann,74,Female,Indore,Pediatrics,Cold,Dr. Melinda,Normal,2025-04-10,2025-04-16,6,182814,No,3.8,No
+10137,Carrie Clayton,33,Male,Hyderabad,Orthopedics,Fracture,Dr. Dustin,Normal,2025-11-06,2025-11-09,3,233852,No,3.9,Yes
+10138,Sonya Willis,35,Female,Pune,Neurology,Stroke,Dr. Juan,Emergency,2025-02-12,2025-02-25,13,47024,No,2.7,Yes
+10139,Rhonda Simon,51,Female,Mumbai,General Medicine,Viral Fever,Dr. George,Normal,2025-01-14,2025-01-21,7,18960,Yes,3.4,Yes
+10140,Chelsea Clark,19,Male,Delhi,Oncology,Cancer,Dr. James,Normal,2026-01-01,2026-01-12,11,92894,No,4.2,Yes
+10141,Paul Russell,11,Male,Bhopal,General Medicine,Viral Fever,Dr. Joshua,Emergency,2025-11-12,2025-11-13,1,242465,Yes,3.9,No
+10142,Carrie Le,7,Male,Indore,Neurology,Stroke,Dr. Kelly,Normal,2025-05-02,2025-05-07,5,36941,Yes,2.8,No
+10143,Brandon Mitchell,19,Female,Indore,Cardiology,Chest Pain,Dr. Michelle,Emergency,2025-09-21,2025-10-01,10,68422,No,3.1,No
+10144,Theresa Jackson,47,Male,Pune,Orthopedics,Arthritis,Dr. Justin,Emergency,2025-12-09,2025-12-11,2,142228,No,4.7,Yes
+10145,John Meyers,46,Male,Bhopal,ENT,Sinus,Dr. Kimberly,Emergency,2025-05-10,2025-05-22,12,9257,Yes,4.4,No
+10146,Donald Murphy,83,Male,Hyderabad,Orthopedics,Fracture,Dr. Tanya,Normal,2025-06-30,2025-07-09,9,93748,No,4.1,Yes
+10147,Mason Howell,26,Male,Mumbai,Neurology,Epilepsy,Dr. William,Emergency,2025-08-23,2025-08-24,1,81924,No,4.8,No
+10148,Bobby Buckley,25,Female,Bhopal,General Medicine,Viral Fever,Dr. Sherri,Emergency,2025-01-19,2025-02-01,13,174581,No,3.2,No
+10149,Justin Taylor,44,Male,Indore,ENT,Sinus,Dr. Thomas,Normal,2025-08-14,2025-08-29,15,106356,No,4.8,No
+10150,Noah Faulkner,78,Male,Pune,Neurology,Epilepsy,Dr. Alyssa,Normal,2025-08-06,2025-08-08,2,117881,No,2.8,No
+10151,Diana Jones,55,Male,Hyderabad,Pediatrics,Cold,Dr. Marc,Normal,2025-08-17,2025-08-27,10,193131,No,3.6,No
+10152,Howard Francis,10,Female,Bhopal,ENT,Sinus,Dr. Theresa,Emergency,2025-11-24,2025-12-07,13,20036,Yes,2.9,No
+10153,Vanessa Ponce,83,Female,Bhopal,Cardiology,Heart Attack,Dr. Joseph,Normal,2025-02-04,2025-02-08,4,209083,Yes,4.0,No
+10154,Ana Thompson,74,Male,Pune,Oncology,Tumor,Dr. Nicole,Normal,2025-08-16,2025-08-29,13,25155,No,3.3,No
+10155,Marcus Fisher,64,Female,Pune,Dermatology,Skin Allergy,Dr. John,Emergency,2025-01-14,2025-01-26,12,53771,No,4.4,No
+10156,Tyler Banks,63,Male,Delhi,Dermatology,Eczema,Dr. Allen,Emergency,2025-05-27,2025-06-08,12,245249,Yes,3.6,No
+10157,Matthew Odonnell,9,Female,Bhopal,Neurology,Epilepsy,Dr. Jacob,Emergency,2025-06-13,2025-06-24,11,96075,Yes,4.5,Yes
+10158,Albert Webb,64,Male,Bhopal,Neurology,Migraine,Dr. Jennifer,Normal,2025-03-13,2025-03-17,4,212191,No,4.5,Yes
+10159,Monica Kelley,62,Female,Indore,Neurology,Migraine,Dr. Jeffrey,Emergency,2025-06-08,2025-06-15,7,192939,Yes,4.9,Yes
+10160,Stephanie Bowman,17,Male,Mumbai,General Medicine,Viral Fever,Dr. Austin,Normal,2025-12-15,2025-12-24,9,95312,Yes,4.6,Yes
+10161,Meagan Crawford,29,Female,Pune,Pediatrics,Fever,Dr. Mary,Normal,2025-03-24,2025-03-30,6,190947,Yes,3.1,No
+10162,Denise Moore,12,Male,Pune,Orthopedics,Arthritis,Dr. Shannon,Emergency,2025-06-05,2025-06-15,10,144848,Yes,4.1,No
+10163,Mr. Michael Black MD,74,Female,Hyderabad,Cardiology,Heart Attack,Dr. Susan,Emergency,2025-02-11,2025-02-12,1,173153,No,4.0,Yes
+10164,Matthew Mosley,39,Female,Mumbai,General Medicine,Typhoid,Dr. Whitney,Normal,2025-10-07,2025-10-12,5,173272,No,3.6,Yes
+10165,Joan Zimmerman,27,Female,Pune,Orthopedics,Back Pain,Dr. Vicki,Emergency,2025-08-01,2025-08-09,8,126750,No,4.7,No
+10166,Holly Joseph,66,Male,Bhopal,Oncology,Tumor,Dr. Elizabeth,Emergency,2025-03-08,2025-03-21,13,102134,No,2.8,No
+10167,Betty Hernandez,50,Female,Mumbai,Dermatology,Skin Allergy,Dr. Steven,Emergency,2025-02-19,2025-02-20,1,81077,No,4.8,No
+10168,Brian Anderson,64,Female,Indore,Dermatology,Skin Allergy,Dr. Melissa,Emergency,2025-09-13,2025-09-22,9,127372,Yes,4.9,No
+10169,Stephanie Ryan,7,Female,Indore,Dermatology,Skin Allergy,Dr. Elizabeth,Normal,2025-10-26,2025-11-01,6,17755,No,3.8,Yes
+10170,Jose Baker,52,Female,Delhi,ENT,Ear Infection,Dr. Joshua,Normal,2025-05-16,2025-05-28,12,100886,Yes,3.9,Yes
+10171,David Clarke,65,Female,Pune,Oncology,Leukemia,Dr. Brian,Normal,2025-05-28,2025-05-30,2,106279,Yes,2.8,Yes
+10172,Daniel Allen,19,Male,Pune,ENT,Sinus,Dr. Cory,Normal,2025-06-23,2025-07-02,9,100841,Yes,2.6,Yes
+10173,Amy Griffin,78,Male,Bhopal,Oncology,Tumor,Dr. Michelle,Normal,2025-09-23,2025-10-01,8,44043,Yes,3.5,No
+10174,Jeffery Graham,73,Female,Indore,Oncology,Leukemia,Dr. Alan,Emergency,2025-09-18,2025-09-27,9,133410,No,3.3,Yes
+10175,Michael Olson,89,Male,Pune,ENT,Throat Infection,Dr. Eric,Normal,2025-06-07,2025-06-20,13,240606,No,4.9,Yes
+10176,Mary Tyler,81,Female,Mumbai,Cardiology,Chest Pain,Dr. Kylie,Emergency,2025-09-03,2025-09-06,3,142424,Yes,3.9,Yes
+10177,Craig Dunn,20,Female,Hyderabad,Dermatology,Skin Allergy,Dr. David,Emergency,2025-08-14,2025-08-20,6,114780,No,3.8,No
+10178,Morgan Peters,72,Female,Hyderabad,Cardiology,Chest Pain,Dr. Joshua,Normal,2025-03-12,2025-03-21,9,59353,No,3.3,Yes
+10179,Rachel Schmidt,87,Female,Pune,General Medicine,Typhoid,Dr. Alex,Normal,2025-06-25,2025-07-04,9,97874,Yes,4.9,No
+10180,Angela Padilla,27,Female,Bhopal,Pediatrics,Fever,Dr. Jonathan,Normal,2025-06-02,2025-06-15,13,80760,No,3.9,No
+10181,Cassandra Reyes,49,Female,Bhopal,Pediatrics,Fever,Dr. Shannon,Emergency,2025-10-21,2025-11-01,11,147394,No,2.6,Yes
+10182,Catherine Peck,62,Male,Mumbai,Oncology,Tumor,Dr. Tina,Normal,2025-12-02,2025-12-07,5,200910,No,2.8,Yes
+10183,Benjamin Moore,29,Male,Delhi,Dermatology,Skin Allergy,Dr. Patrick,Emergency,2025-12-09,2025-12-24,15,144209,No,3.3,No
+10184,Lisa Green,21,Female,Hyderabad,Neurology,Epilepsy,Dr. Julie,Normal,2025-03-12,2025-03-13,1,149271,No,4.1,No
+10185,Gregory Ramos,12,Male,Pune,Oncology,Tumor,Dr. Amy,Emergency,2025-11-27,2025-11-28,1,243010,Yes,3.5,Yes
+10186,Krystal Baker,38,Male,Delhi,Cardiology,High BP,Dr. Steven,Normal,2025-09-11,2025-09-14,3,201346,Yes,4.8,No
+10187,Karen Brown,64,Male,Pune,Pediatrics,Cold,Dr. George,Normal,2025-11-25,2025-12-04,9,142446,No,3.0,Yes
+10188,Douglas Jordan,24,Male,Hyderabad,Oncology,Cancer,Dr. Terri,Normal,2025-08-23,2025-09-03,11,72440,No,3.9,Yes
+10189,Hunter Schneider,55,Female,Delhi,Orthopedics,Arthritis,Dr. Kevin,Normal,2025-11-24,2025-12-09,15,111296,Yes,3.0,Yes
+10190,Ryan Brown,50,Male,Indore,General Medicine,Viral Fever,Dr. Scott,Normal,2025-05-08,2025-05-09,1,73363,No,3.3,Yes
+10191,Julie Chen,8,Male,Indore,Pediatrics,Asthma,Dr. Seth,Normal,2025-07-04,2025-07-16,12,66945,Yes,3.5,No
+10192,Dr. Jordan Perry,29,Male,Mumbai,Neurology,Epilepsy,Dr. Mark,Normal,2025-06-01,2025-06-07,6,166120,Yes,3.6,No
+10193,Daniel Walker,69,Male,Mumbai,ENT,Throat Infection,Dr. Elizabeth,Emergency,2025-10-09,2025-10-24,15,128424,No,3.8,No
+10194,James Herrera,71,Male,Pune,Neurology,Epilepsy,Dr. Erik,Emergency,2025-02-27,2025-02-28,1,222258,Yes,3.3,No
+10195,Ian Parsons,63,Male,Pune,Neurology,Epilepsy,Dr. Marcus,Normal,2025-04-16,2025-04-28,12,157868,Yes,3.6,No
+10196,Stephen Little,87,Female,Hyderabad,General Medicine,Typhoid,Dr. Michael,Emergency,2025-01-30,2025-02-08,9,126209,No,3.1,Yes
+10197,Amy Bowman,45,Male,Pune,Dermatology,Eczema,Dr. Karen,Emergency,2025-02-07,2025-02-08,1,116069,Yes,5.0,No
+10198,Valerie Fowler,18,Female,Bhopal,Cardiology,High BP,Dr. Clifford,Normal,2025-07-29,2025-08-01,3,206581,No,4.7,No
+10199,Dr. Vicki Turner,70,Male,Hyderabad,ENT,Ear Infection,Dr. Jennifer,Normal,2025-12-16,2025-12-27,11,234259,Yes,2.9,No
+10200,Adam Collins,3,Female,Indore,Orthopedics,Arthritis,Dr. Ruth,Normal,2025-04-25,2025-05-09,14,5910,No,4.6,Yes
+10201,Scott Baker,15,Male,Hyderabad,General Medicine,Viral Fever,Dr. David,Normal,2025-03-21,2025-03-26,5,54409,Yes,3.1,Yes
+10202,Natalie Lopez,87,Male,Mumbai,Neurology,Epilepsy,Dr. Jonathan,Emergency,2025-01-18,2025-01-26,8,161705,No,3.6,Yes
+10203,Mr. Spencer Taylor,74,Female,Pune,Cardiology,Heart Attack,Dr. Michael,Normal,2025-09-15,2025-09-20,5,66384,Yes,3.3,Yes
+10204,Erica Guerrero,72,Male,Hyderabad,Dermatology,Acne,Dr. Jessica,Normal,2025-06-03,2025-06-08,5,20979,No,2.6,No
+10205,Amy Howe,53,Male,Bhopal,ENT,Throat Infection,Dr. Emily,Normal,2025-06-13,2025-06-25,12,114137,Yes,4.4,No
+10206,Kristin Johnson,19,Female,Delhi,Dermatology,Skin Allergy,Dr. Tyler,Normal,2025-06-03,2025-06-17,14,190487,No,3.9,Yes
+10207,Ernest Fisher,83,Male,Indore,ENT,Ear Infection,Dr. Suzanne,Normal,2025-05-11,2025-05-15,4,91576,Yes,3.8,Yes
+10208,Calvin Austin,78,Male,Delhi,Cardiology,High BP,Dr. Cheryl,Emergency,2025-07-13,2025-07-24,11,163589,Yes,3.7,No
+10209,William Baldwin,16,Female,Mumbai,Pediatrics,Fever,Dr. Amanda,Emergency,2025-04-19,2025-05-04,15,54813,No,4.8,No
+10210,Robert Jackson,46,Female,Bhopal,Pediatrics,Cold,Dr. Craig,Normal,2025-08-27,2025-09-05,9,175058,No,3.7,No
+10211,Michael Flores,6,Male,Hyderabad,Oncology,Cancer,Dr. Mary,Emergency,2025-07-09,2025-07-15,6,113509,Yes,3.2,No
+10212,John Jenkins,49,Male,Indore,Pediatrics,Fever,Dr. William,Normal,2025-04-11,2025-04-17,6,65298,No,4.4,No
+10213,Susan Perry,46,Male,Mumbai,General Medicine,Viral Fever,Dr. Ronald,Normal,2025-03-28,2025-04-09,12,213398,Yes,4.8,Yes
+10214,Jennifer Lutz,1,Female,Mumbai,Cardiology,Heart Attack,Dr. Jennifer,Emergency,2025-12-09,2025-12-10,1,205366,Yes,4.3,Yes
+10215,Craig Young,80,Female,Hyderabad,Dermatology,Eczema,Dr. Nicole,Normal,2025-08-22,2025-08-28,6,20846,Yes,2.5,No
+10216,Ryan Medina,69,Female,Delhi,Cardiology,Heart Attack,Dr. Micheal,Normal,2025-09-29,2025-10-11,12,77021,Yes,2.8,Yes
+10217,Katherine James,33,Female,Bhopal,Orthopedics,Fracture,Dr. Steven,Normal,2025-04-09,2025-04-19,10,143007,Yes,3.4,No
+10218,Amanda Campbell,39,Male,Hyderabad,General Medicine,Typhoid,Dr. Joseph,Emergency,2025-05-05,2025-05-17,12,64207,Yes,3.5,No
+10219,Shane Nash,22,Male,Indore,General Medicine,Diabetes,Dr. Timothy,Normal,2025-11-23,2025-11-24,1,189246,No,3.9,Yes
+10220,Jason Young,89,Female,Bhopal,Cardiology,Heart Attack,Dr. Carol,Emergency,2025-04-19,2025-05-04,15,232571,Yes,4.2,No
+10221,Eric Williams,76,Male,Hyderabad,Cardiology,Heart Attack,Dr. Bill,Normal,2025-06-11,2025-06-12,1,59305,Yes,3.2,Yes
+10222,Cesar Martin,18,Male,Pune,ENT,Throat Infection,Dr. Justin,Normal,2025-10-04,2025-10-10,6,105622,Yes,2.7,Yes
+10223,Tanner Phillips,77,Female,Bhopal,Neurology,Stroke,Dr. Roger,Emergency,2025-11-06,2025-11-19,13,165921,No,4.5,No
+10224,Jonathan Carter,56,Male,Hyderabad,General Medicine,Diabetes,Dr. Adam,Normal,2025-07-02,2025-07-11,9,103415,Yes,4.4,No
+10225,Brandon Jones,20,Female,Hyderabad,Dermatology,Eczema,Dr. Shelby,Emergency,2025-02-07,2025-02-09,2,75247,No,3.3,Yes
+10226,Anna Perry,35,Male,Mumbai,Neurology,Migraine,Dr. Lisa,Emergency,2025-06-07,2025-06-15,8,99350,Yes,3.6,No
+10227,Kristina Smith,12,Female,Indore,Neurology,Migraine,Dr. Erin,Emergency,2025-02-15,2025-02-21,6,150285,No,3.5,Yes
+10228,Stephanie Davis MD,49,Male,Mumbai,Dermatology,Eczema,Dr. Anthony,Normal,2025-09-24,2025-09-27,3,184651,No,3.2,Yes
+10229,Sarah Lawson,39,Female,Delhi,Neurology,Migraine,Dr. Daniel,Normal,2025-08-11,2025-08-16,5,115389,No,4.9,No
+10230,Shaun Clark,1,Female,Bhopal,Dermatology,Acne,Dr. Spencer,Normal,2025-02-24,2025-02-27,3,84864,No,3.6,No
+10231,Daniel Burton,26,Female,Bhopal,Orthopedics,Back Pain,Dr. Sarah,Emergency,2025-06-14,2025-06-24,10,187266,No,4.9,No
+10232,David Martin,36,Female,Bhopal,General Medicine,Typhoid,Dr. Todd,Emergency,2025-05-05,2025-05-11,6,103580,Yes,4.0,Yes
+10233,Allison Burton,57,Female,Hyderabad,Cardiology,Chest Pain,Dr. Karen,Emergency,2025-08-25,2025-09-06,12,59958,No,4.2,Yes
+10234,Brittany Thomas,55,Female,Delhi,Pediatrics,Fever,Dr. Elizabeth,Normal,2025-05-10,2025-05-21,11,45407,No,4.0,No
+10235,Ronald Smith,69,Male,Delhi,Cardiology,High BP,Dr. Morgan,Emergency,2025-12-26,2026-01-10,15,217938,No,2.9,Yes
+10236,Seth Thomas,13,Female,Mumbai,ENT,Sinus,Dr. Adriana,Emergency,2025-08-09,2025-08-11,2,7765,No,3.4,No
+10237,William Taylor,38,Female,Delhi,Orthopedics,Back Pain,Dr. Erik,Emergency,2025-01-13,2025-01-21,8,32406,Yes,3.4,No
+10238,Elizabeth Sparks,61,Male,Indore,General Medicine,Diabetes,Dr. Brandy,Normal,2025-09-24,2025-10-02,8,96304,No,2.7,Yes
+10239,Nicholas Lester,87,Male,Hyderabad,Neurology,Migraine,Dr. Stephanie,Emergency,2025-06-25,2025-07-06,11,33668,Yes,3.9,No
+10240,Michelle Caldwell,81,Male,Mumbai,ENT,Sinus,Dr. Laura,Normal,2025-04-29,2025-05-12,13,111180,No,2.6,Yes
+10241,Cassandra Herring,28,Male,Bhopal,General Medicine,Typhoid,Dr. Kathleen,Emergency,2025-08-08,2025-08-15,7,6166,Yes,4.5,Yes
+10242,David Simmons,34,Female,Pune,Oncology,Tumor,Dr. Lisa,Normal,2025-04-11,2025-04-19,8,34872,No,4.0,Yes
+10243,Joseph Mccall,87,Female,Pune,Oncology,Tumor,Dr. Lisa,Emergency,2025-08-23,2025-09-02,10,50227,Yes,3.3,Yes
+10244,Steven Wright,19,Female,Indore,Pediatrics,Fever,Dr. John,Emergency,2025-04-04,2025-04-10,6,186780,No,3.6,No
+10245,Jessica Mendoza,18,Male,Bhopal,Orthopedics,Arthritis,Dr. Chloe,Normal,2025-03-27,2025-04-04,8,80716,Yes,4.7,Yes
+10246,Patricia Dennis,72,Female,Indore,General Medicine,Diabetes,Dr. Donna,Normal,2025-04-10,2025-04-24,14,105648,No,4.3,No
+10247,Paul Baxter,29,Female,Delhi,General Medicine,Diabetes,Dr. Carrie,Normal,2025-02-12,2025-02-22,10,13089,Yes,3.8,Yes
+10248,Christian Thomas,15,Male,Bhopal,General Medicine,Typhoid,Dr. Ashley,Normal,2025-09-11,2025-09-20,9,138904,Yes,4.4,No
+10249,Margaret Deleon,84,Male,Bhopal,Dermatology,Acne,Dr. Ronald,Emergency,2025-02-22,2025-03-06,12,222598,No,3.2,Yes
+10250,Antonio Frederick,76,Female,Hyderabad,General Medicine,Diabetes,Dr. Bruce,Normal,2025-05-02,2025-05-06,4,217520,Yes,4.0,Yes
+10251,Taylor Walters,36,Male,Bhopal,Dermatology,Skin Allergy,Dr. Jacqueline,Normal,2025-10-19,2025-10-25,6,144534,No,3.9,Yes
+10252,Misty Fox,84,Male,Hyderabad,Orthopedics,Back Pain,Dr. Cassidy,Emergency,2025-01-31,2025-02-05,5,232291,Yes,2.9,No
+10253,Lori Jacobs,74,Female,Hyderabad,Dermatology,Eczema,Dr. Robert,Normal,2025-07-21,2025-07-29,8,42269,No,3.6,Yes
+10254,Meghan Berry,48,Female,Indore,ENT,Throat Infection,Dr. Richard,Normal,2025-05-23,2025-06-04,12,234983,Yes,4.7,Yes
+10255,Robert Hall,9,Female,Mumbai,General Medicine,Typhoid,Dr. Ebony,Normal,2025-12-07,2025-12-19,12,98905,Yes,3.7,No
+10256,Marvin Burch,73,Female,Bhopal,Pediatrics,Cold,Dr. Daniel,Emergency,2025-10-08,2025-10-18,10,39234,Yes,2.7,No
+10257,Kristin Hancock,1,Female,Mumbai,Cardiology,Heart Attack,Dr. Matthew,Emergency,2025-03-22,2025-03-30,8,124673,No,2.9,No
+10258,Kimberly Chang,48,Male,Delhi,Neurology,Epilepsy,Dr. Jonathan,Normal,2025-07-04,2025-07-09,5,26606,No,4.3,Yes
+10259,Richard Smith,1,Male,Indore,ENT,Throat Infection,Dr. Allen,Emergency,2025-02-16,2025-02-28,12,29951,Yes,4.0,No
+10260,Jill Marshall,16,Female,Hyderabad,Cardiology,Heart Attack,Dr. Michael,Emergency,2025-12-23,2025-12-29,6,219200,No,2.7,No
+10261,Miguel Williams,48,Female,Mumbai,Neurology,Epilepsy,Dr. Lauren,Normal,2025-02-22,2025-02-24,2,87143,Yes,4.1,Yes
+10262,David Torres,84,Male,Indore,Neurology,Epilepsy,Dr. Diane,Normal,2025-10-16,2025-10-17,1,164991,Yes,4.1,Yes
+10263,Alicia Mccullough,28,Male,Delhi,ENT,Throat Infection,Dr. Eric,Emergency,2025-12-18,2025-12-26,8,230434,Yes,4.0,No
+10264,Regina Morgan,32,Female,Hyderabad,Oncology,Tumor,Dr. Sara,Emergency,2025-06-11,2025-06-24,13,41655,Yes,3.9,No
+10265,Michael Sharp,78,Male,Hyderabad,Cardiology,Chest Pain,Dr. Stephanie,Normal,2025-06-04,2025-06-08,4,140724,No,4.1,Yes
+10266,Theresa Ramirez,82,Male,Pune,General Medicine,Viral Fever,Dr. Tim,Emergency,2025-02-27,2025-03-03,4,135962,No,4.8,Yes
+10267,Jamie Mason,88,Male,Indore,ENT,Throat Infection,Dr. Tim,Emergency,2025-08-04,2025-08-10,6,148224,Yes,4.0,Yes
+10268,Megan Wilson,51,Female,Hyderabad,Pediatrics,Fever,Dr. Mary,Normal,2025-01-21,2025-02-05,15,20851,No,4.3,Yes
+10269,Matthew Lopez,66,Male,Mumbai,Orthopedics,Back Pain,Dr. Heather,Normal,2025-02-12,2025-02-17,5,25715,No,4.0,Yes
+10270,Melissa Ross,31,Male,Mumbai,Pediatrics,Asthma,Dr. Larry,Emergency,2025-08-12,2025-08-24,12,226896,No,2.8,Yes
+10271,Daniel Garrett,16,Male,Hyderabad,Pediatrics,Asthma,Dr. Christine,Emergency,2025-12-03,2025-12-15,12,51044,Yes,2.9,No
+10272,Karl Garza,35,Male,Delhi,Pediatrics,Fever,Dr. Richard,Normal,2025-07-10,2025-07-13,3,201549,No,3.2,Yes
+10273,Scott Walker,64,Female,Pune,Pediatrics,Asthma,Dr. Elizabeth,Normal,2025-10-23,2025-11-03,11,25203,Yes,3.7,Yes
+10274,Christopher Henry,74,Male,Mumbai,Oncology,Cancer,Dr. Laura,Emergency,2025-05-11,2025-05-24,13,31975,Yes,4.6,Yes
+10275,Carlos Mckay,20,Male,Delhi,Dermatology,Skin Allergy,Dr. Javier,Normal,2025-08-30,2025-09-05,6,105395,Yes,3.3,No
+10276,Debra Anderson,16,Male,Mumbai,Oncology,Tumor,Dr. Dennis,Emergency,2025-02-09,2025-02-19,10,102729,Yes,4.9,Yes
+10277,Karen Garcia,71,Female,Delhi,General Medicine,Viral Fever,Dr. Cynthia,Normal,2025-06-09,2025-06-15,6,27645,Yes,3.2,No
+10278,Lisa Williams,26,Male,Mumbai,Dermatology,Acne,Dr. Randy,Emergency,2025-07-08,2025-07-18,10,134331,No,2.6,No
+10279,Diane Mcdonald,49,Female,Delhi,Cardiology,High BP,Dr. Emily,Emergency,2025-01-01,2025-01-14,13,177308,Yes,3.5,Yes
+10280,Faith Rivera MD,30,Female,Hyderabad,Orthopedics,Arthritis,Dr. Shelly,Normal,2025-05-24,2025-05-26,2,16508,No,4.9,Yes
+10281,Richard Arias,51,Male,Pune,Neurology,Epilepsy,Dr. Valerie,Emergency,2025-03-10,2025-03-21,11,219948,No,4.2,Yes
+10282,Cynthia Barker,51,Female,Bhopal,Dermatology,Acne,Dr. Denise,Normal,2025-05-14,2025-05-28,14,87577,No,3.1,Yes
+10283,Tyler Powell,22,Female,Indore,Orthopedics,Arthritis,Dr. Kristy,Normal,2025-02-25,2025-02-28,3,32697,No,2.8,No
+10284,Jason Aguirre,16,Male,Mumbai,Dermatology,Acne,Dr. Megan,Normal,2025-06-07,2025-06-15,8,74470,Yes,3.0,No
+10285,Maria Sosa,51,Male,Hyderabad,Orthopedics,Fracture,Dr. Maurice,Normal,2025-12-31,2026-01-04,4,98255,No,4.6,Yes
+10286,Jeffrey Olson,71,Male,Delhi,Cardiology,High BP,Dr. Karen,Normal,2025-08-20,2025-08-29,9,201104,Yes,4.5,Yes
+10287,Rhonda Oconnor,29,Male,Mumbai,Neurology,Migraine,Dr. John,Normal,2025-02-01,2025-02-15,14,209723,No,4.2,Yes
+10288,Christine Parker,83,Female,Mumbai,Pediatrics,Fever,Dr. Todd,Emergency,2025-01-12,2025-01-14,2,56839,No,2.8,No
+10289,Shane Fernandez,51,Female,Delhi,Cardiology,Heart Attack,Dr. Ashley,Normal,2025-10-21,2025-10-28,7,220399,No,2.9,Yes
+10290,Dakota Edwards,20,Male,Pune,Orthopedics,Back Pain,Dr. Justin,Emergency,2025-05-24,2025-06-01,8,236584,No,3.7,No
+10291,Lisa Solis,54,Male,Hyderabad,Cardiology,Heart Attack,Dr. Nicole,Emergency,2025-05-24,2025-05-31,7,40975,Yes,5.0,No
+10292,James Hinton,73,Female,Indore,General Medicine,Typhoid,Dr. William,Normal,2025-09-06,2025-09-12,6,244252,Yes,2.6,Yes
+10293,Megan Wright,68,Female,Pune,Cardiology,High BP,Dr. Thomas,Emergency,2025-01-30,2025-02-12,13,128649,Yes,2.8,Yes
+10294,Jessica Young,74,Female,Bhopal,Pediatrics,Asthma,Dr. Steven,Emergency,2025-01-29,2025-02-11,13,62517,Yes,3.1,No
+10295,Nancy Nunez,46,Male,Pune,Oncology,Leukemia,Dr. Deanna,Emergency,2025-01-15,2025-01-27,12,188647,No,3.9,Yes
+10296,Jessica Becker,78,Male,Delhi,General Medicine,Diabetes,Dr. Thomas,Normal,2025-02-16,2025-02-17,1,65980,Yes,3.3,Yes
+10297,Brian Mills,42,Male,Delhi,Orthopedics,Back Pain,Dr. Marilyn,Emergency,2025-04-01,2025-04-16,15,215350,Yes,4.4,No
+10298,Roberto Smith,76,Male,Bhopal,Neurology,Stroke,Dr. Cody,Normal,2025-12-27,2026-01-07,11,108703,No,2.8,Yes
+10299,Marvin Mays,23,Female,Mumbai,ENT,Throat Infection,Dr. Brandon,Emergency,2025-09-07,2025-09-18,11,88173,No,3.3,No
+10300,Diane Ibarra,51,Male,Mumbai,Orthopedics,Fracture,Dr. Carolyn,Normal,2025-01-01,2025-01-13,12,155165,Yes,4.1,Yes
+10301,Stanley Morgan,31,Female,Bhopal,General Medicine,Diabetes,Dr. Michael,Emergency,2025-06-19,2025-07-01,12,25396,Yes,4.6,No
+10302,Cassie Reynolds,89,Male,Bhopal,General Medicine,Diabetes,Dr. David,Normal,2025-05-16,2025-05-20,4,70415,Yes,4.3,Yes
+10303,Michael Lewis,53,Female,Indore,ENT,Sinus,Dr. Emily,Normal,2025-08-03,2025-08-06,3,236879,No,2.8,No
+10304,Elizabeth Swanson,5,Female,Delhi,Dermatology,Skin Allergy,Dr. Victoria,Normal,2025-08-20,2025-08-22,2,214504,No,4.9,Yes
+10305,Joshua Morris,10,Male,Bhopal,Oncology,Cancer,Dr. Crystal,Normal,2025-07-12,2025-07-15,3,196885,Yes,3.6,Yes
+10306,Travis Oliver,27,Male,Indore,ENT,Ear Infection,Dr. Rose,Normal,2025-01-28,2025-01-30,2,91794,No,3.2,Yes
+10307,Amber Murphy,63,Male,Delhi,Cardiology,High BP,Dr. James,Normal,2025-10-20,2025-10-29,9,225162,Yes,3.6,No
+10308,Ruben Fitzpatrick,22,Female,Delhi,General Medicine,Diabetes,Dr. Cassidy,Normal,2025-02-19,2025-02-20,1,59251,Yes,3.3,No
+10309,Jerry Ward,83,Female,Mumbai,General Medicine,Viral Fever,Dr. Lori,Normal,2025-12-05,2025-12-10,5,28890,No,3.4,No
+10310,Robert Brooks,29,Female,Pune,Cardiology,High BP,Dr. Jocelyn,Emergency,2025-08-14,2025-08-22,8,74048,Yes,4.4,Yes
+10311,Christine Mooney,53,Male,Pune,Neurology,Epilepsy,Dr. Chad,Emergency,2025-06-26,2025-07-09,13,146937,No,4.5,No
+10312,Andrew Ferguson,11,Female,Hyderabad,General Medicine,Typhoid,Dr. Luke,Emergency,2025-05-01,2025-05-09,8,83342,Yes,2.8,No
+10313,Michael Stephens,17,Male,Indore,Orthopedics,Fracture,Dr. Deanna,Emergency,2025-04-19,2025-05-02,13,55521,No,3.0,Yes
+10314,Gabriel Williams,72,Female,Pune,Pediatrics,Cold,Dr. Linda,Normal,2025-02-04,2025-02-06,2,106737,No,3.8,Yes
+10315,Carrie Jackson,73,Male,Delhi,ENT,Ear Infection,Dr. Raymond,Emergency,2025-08-01,2025-08-04,3,43849,No,4.7,No
+10316,James Welch DDS,74,Female,Delhi,ENT,Sinus,Dr. John,Emergency,2025-07-16,2025-07-27,11,132293,No,3.5,No
+10317,Emily Kemp,7,Female,Bhopal,Cardiology,High BP,Dr. Benjamin,Normal,2025-06-19,2025-07-01,12,67279,Yes,3.3,No
+10318,Frank Johnson,88,Male,Mumbai,Pediatrics,Cold,Dr. Thomas,Emergency,2025-09-09,2025-09-23,14,187500,No,4.9,No
+10319,Rachel Maxwell,12,Male,Indore,Oncology,Tumor,Dr. Samantha,Emergency,2025-08-02,2025-08-12,10,174228,No,4.4,No
+10320,Patrick Paul,65,Female,Mumbai,Cardiology,Chest Pain,Dr. Jennifer,Emergency,2025-03-23,2025-03-25,2,86559,Yes,3.0,Yes
+10321,Elizabeth Mccormick,47,Male,Bhopal,Cardiology,Heart Attack,Dr. Vanessa,Normal,2025-01-17,2025-01-25,8,18253,No,3.8,Yes
+10322,Amanda Molina,58,Male,Indore,Cardiology,Heart Attack,Dr. Curtis,Normal,2025-07-10,2025-07-18,8,160724,No,2.9,No
+10323,Angela Miller,21,Male,Mumbai,Neurology,Stroke,Dr. Warren,Emergency,2025-01-15,2025-01-22,7,18015,Yes,3.2,No
+10324,Mrs. Sarah Gonzales,17,Male,Pune,Cardiology,Chest Pain,Dr. Linda,Emergency,2025-01-05,2025-01-13,8,243948,Yes,3.1,No
+10325,Jennifer Moore,59,Female,Mumbai,Pediatrics,Cold,Dr. Brooke,Normal,2025-07-12,2025-07-26,14,96412,No,4.2,No
+10326,Melissa Myers,48,Female,Bhopal,Neurology,Migraine,Dr. Sara,Emergency,2025-09-19,2025-09-30,11,226061,No,2.7,No
+10327,Natasha Davis,84,Female,Mumbai,Oncology,Tumor,Dr. Lacey,Emergency,2025-05-14,2025-05-25,11,191408,Yes,4.7,No
+10328,Kristy Hutchinson,84,Female,Bhopal,Oncology,Leukemia,Dr. Michael,Normal,2025-03-13,2025-03-25,12,11672,No,3.5,Yes
+10329,Ruth Simmons,69,Female,Hyderabad,Dermatology,Acne,Dr. Jeffrey,Normal,2026-01-01,2026-01-05,4,184914,No,4.6,Yes
+10330,Allison Smith,34,Male,Hyderabad,Pediatrics,Fever,Dr. Matthew,Normal,2025-08-30,2025-09-02,3,199227,Yes,3.1,Yes
+10331,Bethany Johnson,75,Female,Indore,Pediatrics,Cold,Dr. Wayne,Emergency,2025-06-19,2025-06-25,6,73304,No,2.6,Yes
+10332,Bryan Chavez,88,Female,Pune,General Medicine,Diabetes,Dr. Laura,Normal,2025-09-14,2025-09-16,2,232409,No,2.6,Yes
+10333,Ashley Flores,59,Male,Bhopal,Orthopedics,Fracture,Dr. Logan,Emergency,2025-06-25,2025-07-02,7,154265,Yes,3.7,Yes
+10334,Robert Torres,36,Male,Mumbai,Oncology,Leukemia,Dr. Ernest,Emergency,2025-01-30,2025-01-31,1,123503,No,4.5,Yes
+10335,John Adams,52,Female,Indore,Orthopedics,Arthritis,Dr. Luis,Normal,2025-08-11,2025-08-22,11,117567,Yes,2.6,Yes
+10336,Sarah Ramos DDS,68,Male,Delhi,Oncology,Cancer,Dr. Troy,Emergency,2025-06-14,2025-06-27,13,223425,Yes,3.1,No
+10337,Kara Merritt,76,Female,Mumbai,Pediatrics,Fever,Dr. Hannah,Emergency,2025-02-22,2025-03-01,7,136946,Yes,3.2,No
+10338,Mary Harper,44,Female,Hyderabad,General Medicine,Typhoid,Dr. Chloe,Emergency,2025-09-24,2025-10-04,10,142394,No,5.0,No
+10339,Manuel Miles,52,Male,Mumbai,Oncology,Cancer,Dr. Scott,Emergency,2025-03-26,2025-04-10,15,245702,Yes,3.0,Yes
+10340,Pamela Ryan,5,Female,Hyderabad,Orthopedics,Fracture,Dr. Gregory,Normal,2025-07-07,2025-07-19,12,175535,Yes,4.0,Yes
+10341,Cheryl Thompson,15,Female,Indore,Neurology,Epilepsy,Dr. Melissa,Normal,2025-01-11,2025-01-12,1,185813,Yes,3.9,No
+10342,Matthew Vasquez,2,Female,Indore,Orthopedics,Fracture,Dr. Nichole,Emergency,2025-12-22,2026-01-02,11,170232,No,4.1,Yes
+10343,Julia Bradley,16,Female,Delhi,ENT,Ear Infection,Dr. James,Emergency,2025-09-19,2025-10-01,12,166925,No,3.0,Yes
+10344,Robert Stevenson,53,Female,Mumbai,Pediatrics,Asthma,Dr. Brooke,Emergency,2025-04-14,2025-04-20,6,189401,No,4.8,No
+10345,Julie Williams,12,Male,Pune,Oncology,Cancer,Dr. Jessica,Normal,2025-01-02,2025-01-03,1,181064,Yes,4.9,Yes
+10346,Joseph Carter,38,Female,Indore,Neurology,Stroke,Dr. Carol,Emergency,2025-11-26,2025-11-30,4,124734,Yes,4.5,Yes
+10347,Suzanne Guzman,15,Male,Delhi,Pediatrics,Cold,Dr. Richard,Emergency,2025-12-13,2025-12-19,6,116672,Yes,4.2,Yes
+10348,Elizabeth Delgado,12,Female,Bhopal,Oncology,Tumor,Dr. Darryl,Emergency,2025-08-13,2025-08-23,10,75335,Yes,3.5,No
+10349,Alexander Olson,54,Male,Delhi,Pediatrics,Cold,Dr. Christopher,Emergency,2025-12-20,2026-01-03,14,130369,Yes,5.0,Yes
+10350,Angela Lane,73,Female,Mumbai,Neurology,Stroke,Dr. Lisa,Normal,2025-10-30,2025-11-07,8,215308,No,4.0,Yes
+10351,John Hall,57,Male,Delhi,General Medicine,Viral Fever,Dr. April,Normal,2025-02-27,2025-03-14,15,112815,No,2.5,Yes
+10352,Kimberly Miller,80,Male,Indore,Oncology,Leukemia,Dr. Amy,Emergency,2025-09-25,2025-10-07,12,188652,No,3.4,No
+10353,Charles Collins,83,Male,Pune,Orthopedics,Arthritis,Dr. Cindy,Normal,2025-11-10,2025-11-11,1,8052,No,4.7,Yes
+10354,Monique Bean,7,Male,Pune,General Medicine,Viral Fever,Dr. Natalie,Normal,2025-05-04,2025-05-10,6,77917,No,4.5,Yes
+10355,Aaron Hebert,64,Female,Bhopal,General Medicine,Viral Fever,Dr. Vanessa,Emergency,2025-10-21,2025-10-29,8,28073,No,4.4,Yes
+10356,Diana Wagner,71,Male,Delhi,Neurology,Stroke,Dr. Keith,Normal,2025-07-31,2025-08-01,1,151048,Yes,4.1,No
+10357,Joseph Lopez,59,Female,Pune,Oncology,Tumor,Dr. Edward,Normal,2025-01-28,2025-02-11,14,63436,No,4.3,Yes
+10358,Rachel Hopkins,46,Female,Pune,Neurology,Epilepsy,Dr. William,Normal,2025-04-24,2025-04-25,1,94484,Yes,2.6,Yes
+10359,Dalton Ross,79,Male,Mumbai,General Medicine,Diabetes,Dr. Amy,Emergency,2025-07-29,2025-07-31,2,71660,No,3.0,Yes
+10360,Katie Doyle,82,Male,Indore,Oncology,Cancer,Dr. Ruben,Normal,2025-08-01,2025-08-02,1,247909,Yes,4.9,Yes
+10361,Patricia Riley,62,Male,Hyderabad,Cardiology,Chest Pain,Dr. Jessica,Emergency,2025-08-10,2025-08-24,14,158385,Yes,2.8,No
+10362,Tammy Martin,32,Female,Indore,ENT,Sinus,Dr. Philip,Normal,2025-11-08,2025-11-23,15,186538,No,3.6,Yes
+10363,Katherine Jenkins,66,Female,Hyderabad,Orthopedics,Back Pain,Dr. Christina,Normal,2025-11-05,2025-11-17,12,237374,Yes,3.0,No
+10364,Allison Heath,23,Female,Hyderabad,Oncology,Leukemia,Dr. Dennis,Emergency,2025-03-09,2025-03-21,12,175416,No,3.9,No
+10365,Joshua Johnson,4,Female,Mumbai,Pediatrics,Cold,Dr. Jamie,Emergency,2025-01-07,2025-01-16,9,32910,Yes,3.0,Yes
+10366,Lisa Payne,8,Female,Mumbai,Pediatrics,Asthma,Dr. Danny,Emergency,2025-05-09,2025-05-12,3,225038,No,4.5,Yes
+10367,Julian Howard,31,Female,Hyderabad,Dermatology,Eczema,Dr. Michael,Emergency,2025-11-28,2025-12-07,9,106944,No,3.5,No
+10368,Christine West,57,Male,Hyderabad,Cardiology,Heart Attack,Dr. Robert,Normal,2025-05-09,2025-05-13,4,167676,Yes,4.4,Yes
+10369,Rachel Olson,24,Male,Hyderabad,Pediatrics,Cold,Dr. Wanda,Emergency,2025-04-01,2025-04-12,11,24521,No,2.6,No
+10370,Casey Arias,33,Male,Bhopal,Pediatrics,Fever,Dr. Steven,Normal,2025-03-24,2025-04-03,10,226777,Yes,2.6,No
+10371,Michael Parker,39,Female,Pune,Cardiology,Chest Pain,Dr. Taylor,Normal,2025-11-12,2025-11-26,14,178510,Yes,4.5,No
+10372,Melvin Ortega,65,Male,Indore,Dermatology,Skin Allergy,Dr. James,Normal,2025-09-24,2025-09-26,2,211112,Yes,3.4,Yes
+10373,Aaron Rodriguez,80,Female,Pune,Oncology,Tumor,Dr. Vanessa,Emergency,2025-07-04,2025-07-09,5,62264,Yes,4.2,No
+10374,Sheila Berry DVM,32,Male,Hyderabad,Dermatology,Eczema,Dr. Benjamin,Normal,2025-11-11,2025-11-26,15,167825,No,4.8,Yes
+10375,David Rodgers,4,Female,Pune,ENT,Sinus,Dr. Levi,Normal,2025-10-04,2025-10-16,12,79141,No,2.6,Yes
+10376,Samuel Byrd,69,Male,Hyderabad,Oncology,Leukemia,Dr. Maria,Emergency,2025-02-12,2025-02-14,2,48881,Yes,4.2,Yes
+10377,Sierra Webb,90,Female,Hyderabad,ENT,Ear Infection,Dr. Erika,Emergency,2025-04-16,2025-04-25,9,222251,Yes,2.6,No
+10378,Andrea Allison,33,Male,Pune,Cardiology,Heart Attack,Dr. Joseph,Emergency,2025-02-07,2025-02-08,1,51659,No,3.5,No
+10379,Andrew Anderson,87,Male,Pune,ENT,Sinus,Dr. Steven,Emergency,2025-06-11,2025-06-12,1,107105,Yes,4.4,Yes
+10380,John Garcia,88,Female,Pune,Neurology,Stroke,Dr. Roger,Emergency,2025-09-15,2025-09-17,2,80978,No,4.4,No
+10381,Ronald Johnson,21,Male,Mumbai,ENT,Sinus,Dr. Meghan,Normal,2025-12-05,2025-12-06,1,129253,No,4.9,Yes
+10382,Elizabeth Coleman,71,Male,Delhi,Pediatrics,Asthma,Dr. Melinda,Emergency,2025-11-28,2025-12-04,6,7922,Yes,3.9,No
+10383,Dalton Wilson,45,Male,Indore,Neurology,Stroke,Dr. Christopher,Emergency,2025-04-18,2025-04-30,12,199361,Yes,3.0,No
+10384,Colin Henderson,73,Male,Pune,Dermatology,Skin Allergy,Dr. Dawn,Normal,2025-04-03,2025-04-14,11,214626,Yes,3.2,Yes
+10385,Jeffrey Moreno,63,Female,Bhopal,Pediatrics,Fever,Dr. Brandy,Emergency,2025-04-12,2025-04-24,12,157199,Yes,2.8,Yes
+10386,Mike Mendez,79,Female,Hyderabad,Dermatology,Acne,Dr. Brian,Emergency,2025-09-06,2025-09-14,8,91073,No,4.5,No
+10387,Jacqueline Hicks,29,Female,Bhopal,Orthopedics,Fracture,Dr. James,Normal,2025-06-10,2025-06-14,4,210956,Yes,4.2,No
+10388,Lisa Walton,40,Female,Pune,General Medicine,Viral Fever,Dr. Joseph,Emergency,2025-08-17,2025-08-23,6,208100,Yes,4.1,Yes
+10389,Brent Adams,81,Male,Hyderabad,Pediatrics,Fever,Dr. Johnny,Emergency,2025-10-03,2025-10-07,4,74005,Yes,4.6,Yes
+10390,Charles Strong,71,Female,Pune,ENT,Throat Infection,Dr. Mark,Normal,2025-04-19,2025-05-04,15,14609,Yes,3.4,Yes
+10391,Antonio Lawrence,12,Female,Bhopal,Pediatrics,Fever,Dr. Paul,Emergency,2025-08-26,2025-09-04,9,138801,Yes,4.6,Yes
+10392,Misty Scott,73,Male,Hyderabad,Orthopedics,Back Pain,Dr. Morgan,Normal,2025-03-23,2025-03-26,3,153467,No,2.6,No
+10393,Maria Jenkins,6,Male,Pune,Dermatology,Skin Allergy,Dr. April,Normal,2025-05-16,2025-05-22,6,66346,No,3.7,No
+10394,William Thornton,67,Female,Hyderabad,Cardiology,Heart Attack,Dr. Jacob,Normal,2025-11-29,2025-12-05,6,32059,Yes,3.4,No
+10395,Jessica Garrett,10,Female,Indore,Oncology,Leukemia,Dr. Jacob,Emergency,2025-12-01,2025-12-16,15,224013,No,3.4,No
+10396,Kelsey Myers,18,Female,Mumbai,General Medicine,Viral Fever,Dr. Paula,Emergency,2025-11-06,2025-11-07,1,136553,Yes,3.8,No
+10397,April Schultz,78,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Christopher,Emergency,2025-04-06,2025-04-09,3,99954,No,4.5,Yes
+10398,Kenneth Kramer,76,Male,Hyderabad,General Medicine,Typhoid,Dr. Teresa,Normal,2025-09-03,2025-09-11,8,60234,Yes,3.1,Yes
+10399,Michelle Wade,74,Male,Delhi,Orthopedics,Fracture,Dr. Zachary,Emergency,2025-11-19,2025-11-28,9,15273,No,4.8,No
+10400,Thomas Day,11,Male,Indore,Cardiology,Chest Pain,Dr. Amanda,Normal,2025-12-05,2025-12-19,14,79305,No,2.9,No
+10401,Jennifer Smith,66,Female,Mumbai,Orthopedics,Arthritis,Dr. Kathy,Normal,2025-04-04,2025-04-14,10,177922,No,4.0,Yes
+10402,Jessica Hernandez,3,Male,Pune,Dermatology,Acne,Dr. Jordan,Normal,2025-07-17,2025-07-20,3,33461,Yes,4.0,Yes
+10403,Phillip Johnson,69,Male,Delhi,General Medicine,Typhoid,Dr. Victoria,Normal,2025-11-04,2025-11-05,1,235097,Yes,4.8,Yes
+10404,Mitchell Gray,6,Female,Mumbai,ENT,Throat Infection,Dr. Briana,Normal,2025-08-04,2025-08-10,6,234329,No,3.4,Yes
+10405,Daniel Goodman,30,Male,Bhopal,ENT,Ear Infection,Dr. Jennifer,Normal,2025-05-11,2025-05-19,8,205765,No,3.0,Yes
+10406,Nathan Valenzuela,27,Female,Indore,Neurology,Epilepsy,Dr. Tonya,Normal,2025-01-04,2025-01-11,7,176585,Yes,2.9,No
+10407,Nicole Velazquez,79,Female,Hyderabad,Pediatrics,Asthma,Dr. Allison,Normal,2025-08-05,2025-08-15,10,100851,Yes,3.5,No
+10408,Yvonne Collins,33,Female,Pune,Orthopedics,Back Pain,Dr. Ronald,Normal,2025-10-14,2025-10-23,9,131814,No,4.3,Yes
+10409,Mr. John Casey,28,Female,Bhopal,Dermatology,Acne,Dr. Matthew,Emergency,2025-12-25,2025-12-28,3,31287,Yes,3.5,Yes
+10410,Joseph Taylor,56,Male,Delhi,Neurology,Migraine,Dr. Angela,Normal,2025-08-30,2025-09-14,15,162350,Yes,3.4,Yes
+10411,Donna Sweeney,37,Male,Mumbai,ENT,Sinus,Dr. Erika,Normal,2025-11-11,2025-11-22,11,141578,No,2.5,No
+10412,Robert Huang,90,Male,Pune,Dermatology,Skin Allergy,Dr. Rachel,Emergency,2025-11-03,2025-11-12,9,140217,Yes,3.4,Yes
+10413,Robert Anderson,46,Female,Indore,Orthopedics,Fracture,Dr. Rachel,Emergency,2025-05-22,2025-06-04,13,109709,Yes,4.3,Yes
+10414,Alyssa Jefferson,72,Female,Bhopal,Neurology,Epilepsy,Dr. Jesse,Normal,2025-05-26,2025-06-07,12,222517,Yes,4.0,Yes
+10415,Rodney Brown,23,Female,Pune,General Medicine,Viral Fever,Dr. Melissa,Emergency,2025-10-22,2025-10-23,1,73447,Yes,3.8,No
+10416,Jordan Knight,74,Female,Hyderabad,Neurology,Epilepsy,Dr. Heather,Normal,2025-05-12,2025-05-27,15,146008,No,3.9,Yes
+10417,Heather Lynch,76,Male,Indore,Oncology,Tumor,Dr. James,Emergency,2025-12-15,2025-12-23,8,240018,No,2.7,Yes
+10418,Angela Marsh,69,Male,Hyderabad,Dermatology,Acne,Dr. Robin,Normal,2025-07-31,2025-08-06,6,140398,Yes,3.2,No
+10419,Kelly Edwards,61,Female,Bhopal,Oncology,Cancer,Dr. Linda,Emergency,2025-10-11,2025-10-26,15,51788,No,3.0,Yes
+10420,Pamela Baldwin,31,Female,Mumbai,General Medicine,Typhoid,Dr. Elizabeth,Emergency,2025-04-13,2025-04-17,4,197788,Yes,4.6,No
+10421,Patricia Jenkins,87,Female,Pune,Orthopedics,Fracture,Dr. Bradley,Emergency,2025-03-03,2025-03-18,15,25575,Yes,4.6,No
+10422,Tyler Terry,63,Male,Pune,Oncology,Tumor,Dr. Aaron,Normal,2025-10-22,2025-11-05,14,77019,No,3.1,Yes
+10423,Michaela Dickerson,5,Female,Indore,Cardiology,Chest Pain,Dr. Diana,Emergency,2025-08-05,2025-08-13,8,146759,No,4.9,No
+10424,Crystal Lee,27,Female,Pune,Oncology,Leukemia,Dr. Heather,Emergency,2025-01-05,2025-01-06,1,181712,No,3.4,No
+10425,Michaela Riley,61,Female,Bhopal,Orthopedics,Arthritis,Dr. Shawn,Emergency,2025-05-15,2025-05-19,4,75623,No,3.6,No
+10426,Jacqueline Perez,24,Male,Pune,Oncology,Tumor,Dr. Faith,Emergency,2025-07-25,2025-07-30,5,123155,Yes,4.3,Yes
+10427,Monica Scott,20,Female,Delhi,ENT,Sinus,Dr. Michele,Emergency,2025-04-11,2025-04-14,3,214725,No,3.7,No
+10428,Samuel Cox,73,Male,Indore,General Medicine,Viral Fever,Dr. Amanda,Emergency,2025-05-09,2025-05-18,9,230051,Yes,2.7,No
+10429,Philip Barton,43,Female,Bhopal,General Medicine,Typhoid,Dr. Kimberly,Normal,2025-02-19,2025-02-27,8,200190,No,3.4,No
+10430,Michael Glover,74,Male,Bhopal,Neurology,Stroke,Dr. Mary,Normal,2025-12-14,2025-12-24,10,57155,No,4.2,No
+10431,Maria Cross,60,Male,Mumbai,General Medicine,Diabetes,Dr. Michael,Normal,2025-07-15,2025-07-25,10,80110,No,4.1,No
+10432,Paul Washington,41,Female,Hyderabad,Neurology,Migraine,Dr. Jeffrey,Normal,2025-03-24,2025-03-30,6,64825,No,4.0,No
+10433,Casey Smith,67,Female,Indore,Pediatrics,Cold,Dr. Christopher,Emergency,2025-07-05,2025-07-17,12,158857,Yes,4.6,Yes
+10434,Edward Green,11,Male,Mumbai,Dermatology,Eczema,Dr. Joshua,Normal,2025-05-09,2025-05-21,12,188683,Yes,2.7,No
+10435,Mark Fowler,11,Male,Bhopal,Cardiology,Heart Attack,Dr. Edward,Emergency,2025-07-23,2025-08-01,9,205539,Yes,4.1,No
+10436,Shirley Gibson,57,Male,Mumbai,Pediatrics,Fever,Dr. Amy,Emergency,2025-05-07,2025-05-19,12,79494,Yes,2.6,No
+10437,Holly Barker,35,Female,Mumbai,Oncology,Tumor,Dr. Samantha,Emergency,2025-08-28,2025-09-11,14,146710,No,4.1,No
+10438,Jacob Gomez,12,Female,Bhopal,Pediatrics,Cold,Dr. Ian,Normal,2025-09-04,2025-09-13,9,64540,No,3.1,No
+10439,Margaret Greene,18,Female,Bhopal,Cardiology,Heart Attack,Dr. Jonathan,Normal,2025-09-25,2025-10-09,14,203782,Yes,4.2,No
+10440,Jennifer Nguyen,38,Male,Delhi,General Medicine,Viral Fever,Dr. Christine,Normal,2025-01-05,2025-01-18,13,117836,Yes,3.5,No
+10441,James Brown,83,Female,Indore,ENT,Ear Infection,Dr. Christopher,Emergency,2025-03-25,2025-04-06,12,198231,No,2.7,Yes
+10442,Erica White,35,Female,Mumbai,Pediatrics,Cold,Dr. Stacey,Emergency,2025-11-29,2025-12-11,12,144445,Yes,2.8,Yes
+10443,Gwendolyn Lyons,80,Female,Mumbai,General Medicine,Typhoid,Dr. Gail,Normal,2025-08-20,2025-08-25,5,188624,Yes,2.9,Yes
+10444,Warren Wright,57,Male,Mumbai,Orthopedics,Fracture,Dr. Denise,Emergency,2025-05-25,2025-05-30,5,37778,Yes,2.5,Yes
+10445,Kristen Higgins,64,Female,Indore,Oncology,Tumor,Dr. Kimberly,Emergency,2025-06-09,2025-06-22,13,214574,No,2.7,Yes
+10446,Brittney Perez,61,Male,Mumbai,Cardiology,High BP,Dr. Julie,Normal,2025-07-20,2025-07-22,2,147394,No,4.6,Yes
+10447,Robin Molina,5,Male,Indore,Dermatology,Acne,Dr. Matthew,Emergency,2025-08-15,2025-08-19,4,198362,Yes,3.7,No
+10448,Paul Cook DDS,71,Male,Bhopal,Oncology,Cancer,Dr. Shelby,Normal,2025-11-19,2025-12-01,12,16058,No,3.0,Yes
+10449,Christina Cruz,42,Male,Mumbai,Dermatology,Skin Allergy,Dr. Jennifer,Normal,2025-05-01,2025-05-12,11,118812,Yes,3.5,Yes
+10450,Richard Smith,61,Male,Bhopal,Cardiology,Heart Attack,Dr. Kelsey,Emergency,2025-10-25,2025-11-07,13,186076,Yes,2.9,Yes
+10451,Scott Parks,83,Male,Hyderabad,Oncology,Leukemia,Dr. Lindsey,Emergency,2025-01-31,2025-02-01,1,98196,Yes,3.7,No
+10452,James Reed,49,Female,Hyderabad,Oncology,Tumor,Dr. Michael,Emergency,2025-04-09,2025-04-10,1,185682,No,4.7,No
+10453,Sheryl Holland,63,Male,Pune,General Medicine,Typhoid,Dr. Nancy,Emergency,2025-05-31,2025-06-09,9,187724,No,3.3,No
+10454,Sheri Soto,68,Male,Indore,Pediatrics,Asthma,Dr. Julie,Normal,2025-10-11,2025-10-14,3,23055,No,3.9,No
+10455,Mr. Jonathan Ortiz,24,Male,Pune,Cardiology,Chest Pain,Dr. Jacob,Normal,2025-09-17,2025-09-24,7,197323,Yes,3.3,Yes
+10456,Yesenia Cross,71,Male,Pune,ENT,Ear Infection,Dr. Erin,Normal,2025-09-26,2025-10-07,11,135429,No,3.5,No
+10457,Katherine Cooke,6,Male,Mumbai,Neurology,Migraine,Dr. Tiffany,Emergency,2025-09-25,2025-10-06,11,22479,Yes,2.8,Yes
+10458,Daniel Williams,50,Female,Pune,Neurology,Migraine,Dr. Patrick,Normal,2025-10-20,2025-10-31,11,224230,Yes,3.4,Yes
+10459,Troy Cunningham,11,Female,Hyderabad,Cardiology,Heart Attack,Dr. Christopher,Emergency,2025-12-02,2025-12-10,8,248375,No,3.9,No
+10460,Kimberly Nguyen,35,Male,Hyderabad,Oncology,Leukemia,Dr. Jennifer,Emergency,2025-01-30,2025-02-13,14,166725,No,2.7,Yes
+10461,Jeffery Fernandez,25,Male,Pune,Neurology,Migraine,Dr. Jeremy,Emergency,2025-04-29,2025-05-08,9,106012,Yes,3.9,No
+10462,Stacey Jones,59,Female,Delhi,Neurology,Epilepsy,Dr. Dustin,Emergency,2025-10-23,2025-10-29,6,181814,Yes,3.9,No
+10463,Harry Williams,46,Female,Pune,Orthopedics,Arthritis,Dr. Tamara,Normal,2025-11-04,2025-11-12,8,249716,No,3.5,No
+10464,Regina Nelson,28,Female,Pune,Oncology,Leukemia,Dr. Kevin,Normal,2025-05-04,2025-05-14,10,148032,No,4.9,No
+10465,Curtis Bryant,3,Male,Bhopal,ENT,Ear Infection,Dr. Donald,Emergency,2025-01-18,2025-01-23,5,161175,No,5.0,Yes
+10466,Pamela Nixon,71,Male,Delhi,Oncology,Cancer,Dr. Kathleen,Emergency,2025-12-20,2026-01-03,14,77340,No,3.4,Yes
+10467,Anne Fisher,33,Female,Delhi,Pediatrics,Cold,Dr. Danielle,Normal,2025-10-26,2025-10-30,4,66078,Yes,4.3,No
+10468,Michelle Webb,89,Male,Pune,General Medicine,Diabetes,Dr. Rebecca,Normal,2025-09-07,2025-09-21,14,240673,Yes,4.3,No
+10469,Nathan Miller,56,Female,Delhi,Neurology,Migraine,Dr. Priscilla,Emergency,2025-06-21,2025-06-27,6,235632,Yes,4.1,No
+10470,Christopher Preston,70,Male,Bhopal,Cardiology,High BP,Dr. Michael,Emergency,2025-09-26,2025-09-27,1,88706,Yes,2.6,No
+10471,Ms. Jennifer Murphy,29,Female,Bhopal,General Medicine,Typhoid,Dr. Anthony,Normal,2025-10-22,2025-10-31,9,28614,Yes,2.8,Yes
+10472,James Pruitt,34,Male,Indore,General Medicine,Typhoid,Dr. Linda,Normal,2025-01-26,2025-02-04,9,109645,Yes,4.4,No
+10473,Linda Moore,26,Male,Mumbai,Dermatology,Acne,Dr. Kimberly,Emergency,2025-07-22,2025-08-02,11,154770,No,4.4,No
+10474,John Smith,47,Female,Mumbai,Neurology,Migraine,Dr. Jackie,Normal,2025-12-10,2025-12-17,7,116028,No,4.0,Yes
+10475,Paul Allen,57,Male,Indore,Pediatrics,Fever,Dr. Tanner,Emergency,2025-06-29,2025-07-09,10,220373,Yes,3.0,No
+10476,Scott Peterson,7,Male,Pune,Orthopedics,Arthritis,Dr. Edward,Emergency,2025-02-13,2025-02-15,2,198876,No,2.5,Yes
+10477,William Mayo,27,Male,Mumbai,Pediatrics,Cold,Dr. Donna,Normal,2025-08-30,2025-08-31,1,91999,No,4.1,Yes
+10478,Elizabeth White,68,Male,Bhopal,Cardiology,High BP,Dr. Robert,Emergency,2025-10-26,2025-11-10,15,178939,Yes,3.2,No
+10479,Jason Rose,50,Female,Hyderabad,Cardiology,High BP,Dr. Nicole,Normal,2025-12-02,2025-12-03,1,22458,Yes,2.5,No
+10480,Charles Adams,41,Female,Pune,Dermatology,Acne,Dr. Mark,Emergency,2025-09-18,2025-09-30,12,31110,Yes,3.0,No
+10481,Michelle Washington,40,Female,Indore,Cardiology,Heart Attack,Dr. Alyssa,Normal,2025-05-07,2025-05-22,15,143783,Yes,2.5,No
+10482,Matthew Hinton,36,Male,Hyderabad,Oncology,Leukemia,Dr. Shawn,Normal,2025-06-04,2025-06-08,4,136400,No,4.7,Yes
+10483,Elizabeth Lee,51,Male,Delhi,Pediatrics,Fever,Dr. Eric,Normal,2025-03-19,2025-03-25,6,240189,Yes,3.5,Yes
+10484,Karen Lynch,70,Male,Mumbai,ENT,Sinus,Dr. Daniel,Emergency,2025-11-06,2025-11-12,6,122747,Yes,4.7,No
+10485,Michael Hanson,73,Male,Bhopal,Orthopedics,Back Pain,Dr. Robert,Emergency,2025-03-16,2025-03-27,11,249588,Yes,3.0,Yes
+10486,Lisa Lawrence,57,Female,Mumbai,Cardiology,High BP,Dr. Joseph,Emergency,2025-07-31,2025-08-07,7,84520,Yes,2.8,Yes
+10487,Neil Meyers,77,Male,Mumbai,Pediatrics,Asthma,Dr. Tiffany,Emergency,2025-10-18,2025-10-28,10,65532,No,2.7,No
+10488,Michelle Larsen,84,Female,Mumbai,Orthopedics,Arthritis,Dr. Kimberly,Normal,2025-11-06,2025-11-14,8,191651,No,3.7,Yes
+10489,John Wolfe,2,Female,Indore,Dermatology,Skin Allergy,Dr. Jeff,Emergency,2025-01-17,2025-01-24,7,205419,Yes,4.4,Yes
+10490,Melanie Allen,42,Female,Mumbai,Orthopedics,Back Pain,Dr. Zachary,Normal,2025-11-12,2025-11-20,8,185319,No,4.4,No
+10491,Kimberly Wheeler,77,Male,Pune,Oncology,Tumor,Dr. Kathleen,Emergency,2025-11-10,2025-11-22,12,154929,No,3.6,Yes
+10492,Angela Burnett,6,Female,Pune,Dermatology,Eczema,Dr. Megan,Emergency,2025-10-03,2025-10-10,7,197720,Yes,3.2,No
+10493,Jeffrey Cohen,38,Male,Hyderabad,Pediatrics,Cold,Dr. Danielle,Emergency,2025-08-25,2025-08-28,3,115745,No,4.6,No
+10494,Jaclyn Perkins,75,Male,Indore,Neurology,Epilepsy,Dr. Lawrence,Normal,2025-09-14,2025-09-16,2,52125,No,3.6,Yes
+10495,Angela White,59,Male,Bhopal,General Medicine,Typhoid,Dr. Jessica,Normal,2025-12-31,2026-01-15,15,57935,Yes,4.3,Yes
+10496,Alexander Ward,47,Male,Pune,Neurology,Migraine,Dr. Erin,Normal,2025-12-28,2026-01-05,8,171218,Yes,3.4,No
+10497,Maria Martinez,85,Male,Mumbai,Cardiology,Heart Attack,Dr. Kirk,Emergency,2025-06-21,2025-07-01,10,233407,Yes,4.4,Yes
+10498,Lisa Green,58,Female,Hyderabad,ENT,Sinus,Dr. James,Emergency,2025-06-08,2025-06-20,12,206491,Yes,4.7,Yes
+10499,Rhonda Patterson,64,Female,Pune,Cardiology,Chest Pain,Dr. Stacy,Emergency,2025-05-10,2025-05-11,1,125230,No,3.1,No
+10500,David Lee,77,Male,Mumbai,General Medicine,Viral Fever,Dr. Kathryn,Normal,2025-08-15,2025-08-17,2,162605,Yes,2.6,Yes
+10501,Elizabeth Ramirez,5,Female,Bhopal,Cardiology,Chest Pain,Dr. Thomas,Emergency,2025-06-28,2025-06-29,1,43109,Yes,2.8,Yes
+10502,Alexis Gonzales,89,Male,Indore,Orthopedics,Arthritis,Dr. Chad,Normal,2025-05-26,2025-06-05,10,178257,Yes,2.7,No
+10503,Susan Thompson,55,Male,Bhopal,Oncology,Tumor,Dr. Andrew,Normal,2025-07-14,2025-07-28,14,22738,Yes,2.8,No
+10504,Alexander Rojas,90,Male,Pune,Oncology,Leukemia,Dr. Ian,Emergency,2025-07-31,2025-08-09,9,60009,Yes,3.9,Yes
+10505,Shane Cooper,37,Female,Pune,General Medicine,Typhoid,Dr. Joshua,Normal,2025-12-19,2025-12-29,10,249814,No,3.8,No
+10506,Jonathan Wright,81,Female,Indore,Orthopedics,Arthritis,Dr. Laura,Emergency,2025-10-16,2025-10-24,8,141237,Yes,4.3,Yes
+10507,Barbara Morris,16,Male,Pune,Cardiology,Heart Attack,Dr. Tyler,Normal,2025-01-13,2025-01-21,8,168960,No,2.6,No
+10508,Cindy Thompson,37,Female,Delhi,Dermatology,Skin Allergy,Dr. Michael,Normal,2025-11-24,2025-11-28,4,185883,No,3.8,No
+10509,Darrell Brown,51,Male,Mumbai,Cardiology,Heart Attack,Dr. Brett,Emergency,2025-12-18,2025-12-24,6,94485,No,4.6,No
+10510,Jerry Matthews,20,Female,Pune,General Medicine,Diabetes,Dr. Diana,Normal,2025-11-27,2025-11-30,3,131221,No,4.5,No
+10511,Michael Robertson,87,Female,Pune,Cardiology,Chest Pain,Dr. Laura,Emergency,2025-06-03,2025-06-13,10,195045,Yes,3.9,No
+10512,Sarah Andrews MD,4,Female,Indore,Oncology,Cancer,Dr. Evelyn,Emergency,2025-03-18,2025-03-23,5,225394,No,3.0,Yes
+10513,Henry Nichols,35,Female,Delhi,Pediatrics,Asthma,Dr. Monica,Normal,2025-06-11,2025-06-23,12,13291,Yes,3.4,No
+10514,Jessica Graham,48,Male,Mumbai,Dermatology,Eczema,Dr. Daniel,Emergency,2025-06-04,2025-06-07,3,34420,No,3.8,No
+10515,Mary Rodriguez,68,Female,Bhopal,Orthopedics,Fracture,Dr. Kimberly,Emergency,2025-06-24,2025-07-09,15,131739,Yes,4.6,Yes
+10516,Sara Snyder,67,Male,Delhi,Dermatology,Eczema,Dr. April,Normal,2025-01-19,2025-01-27,8,106603,Yes,4.2,Yes
+10517,Steven Carroll,85,Female,Delhi,Oncology,Tumor,Dr. Tiffany,Normal,2025-01-24,2025-01-26,2,141466,Yes,3.3,Yes
+10518,Kayla Schultz,57,Male,Bhopal,Pediatrics,Cold,Dr. Valerie,Emergency,2025-09-30,2025-10-06,6,207581,Yes,3.2,Yes
+10519,Larry Williams,41,Female,Mumbai,Neurology,Migraine,Dr. Brianna,Normal,2025-10-05,2025-10-11,6,149012,Yes,2.9,No
+10520,Timothy Cooper,4,Female,Hyderabad,Oncology,Leukemia,Dr. Kristen,Emergency,2025-08-16,2025-08-17,1,39098,Yes,3.5,Yes
+10521,Margaret Garcia,76,Female,Pune,ENT,Sinus,Dr. Amy,Normal,2025-04-02,2025-04-14,12,161269,No,3.3,Yes
+10522,John Reid,90,Female,Delhi,Neurology,Stroke,Dr. Joseph,Normal,2025-10-18,2025-10-21,3,29357,No,4.2,No
+10523,Charles Willis,79,Female,Bhopal,General Medicine,Diabetes,Dr. Bryan,Normal,2025-04-25,2025-04-28,3,230731,Yes,4.2,No
+10524,Mark Roth,61,Male,Bhopal,Oncology,Tumor,Dr. Katherine,Normal,2025-09-07,2025-09-08,1,22135,No,4.6,No
+10525,Elizabeth Reynolds,14,Female,Hyderabad,Oncology,Leukemia,Dr. Jennifer,Emergency,2025-10-22,2025-10-25,3,138155,No,3.9,Yes
+10526,Daniel Walker,53,Male,Pune,Pediatrics,Asthma,Dr. Jason,Emergency,2025-08-25,2025-09-01,7,159805,Yes,4.9,No
+10527,Lawrence Stanley,76,Female,Indore,Neurology,Stroke,Dr. Monica,Normal,2025-04-17,2025-05-01,14,186943,Yes,2.9,Yes
+10528,Timothy Morrison,42,Male,Indore,General Medicine,Diabetes,Dr. Christopher,Emergency,2025-10-31,2025-11-10,10,126348,No,4.9,Yes
+10529,Cynthia Miller,49,Female,Indore,Neurology,Epilepsy,Dr. Bryan,Emergency,2025-11-02,2025-11-15,13,219922,Yes,3.0,Yes
+10530,John Castillo,69,Female,Indore,Cardiology,Heart Attack,Dr. Miguel,Normal,2025-12-05,2025-12-08,3,123744,Yes,3.0,No
+10531,Kevin Griffin,56,Female,Delhi,Pediatrics,Asthma,Dr. Nathan,Emergency,2025-12-14,2025-12-19,5,245779,No,4.6,No
+10532,William Salas,72,Female,Delhi,Cardiology,High BP,Dr. Julie,Normal,2025-10-09,2025-10-10,1,5221,Yes,3.1,No
+10533,Nicholas West,56,Male,Hyderabad,Oncology,Leukemia,Dr. Jacob,Emergency,2025-07-15,2025-07-22,7,105024,No,2.8,No
+10534,Mr. Joseph Anderson,86,Male,Mumbai,Oncology,Tumor,Dr. Anthony,Emergency,2025-03-20,2025-03-25,5,233782,Yes,4.1,Yes
+10535,Robert Bradley,18,Female,Indore,General Medicine,Typhoid,Dr. Audrey,Normal,2025-08-12,2025-08-15,3,27194,Yes,3.6,No
+10536,James Gibson,55,Male,Pune,General Medicine,Viral Fever,Dr. Wendy,Normal,2025-07-01,2025-07-05,4,53704,Yes,4.3,No
+10537,Brenda Deleon,5,Female,Hyderabad,ENT,Throat Infection,Dr. Teresa,Normal,2025-10-23,2025-10-29,6,13771,Yes,4.0,Yes
+10538,Stacey Cobb,36,Female,Pune,Orthopedics,Arthritis,Dr. Bonnie,Emergency,2025-09-27,2025-10-11,14,201760,Yes,3.1,Yes
+10539,Kristina Turner,69,Male,Indore,Pediatrics,Asthma,Dr. Richard,Normal,2025-01-28,2025-02-12,15,95058,No,3.9,No
+10540,Richard Mcgrath,5,Female,Hyderabad,ENT,Sinus,Dr. Lisa,Normal,2025-05-31,2025-06-05,5,48911,Yes,4.1,Yes
+10541,Martha Potts,80,Male,Bhopal,Cardiology,Chest Pain,Dr. Sarah,Normal,2025-05-30,2025-06-12,13,198299,Yes,2.8,Yes
+10542,David Clarke,36,Female,Delhi,Pediatrics,Cold,Dr. Kevin,Emergency,2025-03-09,2025-03-19,10,78655,Yes,4.8,Yes
+10543,Sherry Farmer,90,Male,Indore,General Medicine,Viral Fever,Dr. Tammy,Emergency,2025-03-31,2025-04-05,5,210134,Yes,3.4,Yes
+10544,Joseph Mccormick,53,Female,Mumbai,Orthopedics,Arthritis,Dr. Jennifer,Normal,2025-03-20,2025-04-03,14,135009,Yes,3.0,No
+10545,Christina May,15,Male,Mumbai,Cardiology,Chest Pain,Dr. Todd,Normal,2025-05-16,2025-05-29,13,219835,No,3.7,No
+10546,Miranda Leonard,61,Female,Mumbai,Dermatology,Acne,Dr. Shannon,Normal,2025-12-16,2025-12-28,12,107254,Yes,3.2,No
+10547,John Hunt,6,Male,Pune,ENT,Throat Infection,Dr. Jason,Normal,2025-06-11,2025-06-20,9,184011,No,4.0,No
+10548,Megan Berry,33,Female,Indore,Oncology,Tumor,Dr. Felicia,Emergency,2025-05-17,2025-05-30,13,30762,Yes,3.8,Yes
+10549,Joseph Hernandez,9,Male,Indore,Oncology,Leukemia,Dr. Steven,Emergency,2025-01-06,2025-01-17,11,7221,Yes,4.2,No
+10550,Daniel Townsend,5,Male,Pune,Dermatology,Eczema,Dr. Molly,Emergency,2025-05-26,2025-05-31,5,55614,Yes,4.8,Yes
+10551,Jason Compton,78,Male,Indore,Neurology,Epilepsy,Dr. Susan,Emergency,2025-03-03,2025-03-05,2,229510,Yes,4.2,No
+10552,Steven Thompson,82,Female,Bhopal,Pediatrics,Cold,Dr. Sherry,Normal,2025-12-05,2025-12-20,15,24848,No,3.1,Yes
+10553,Kristen Porter,8,Female,Bhopal,Pediatrics,Fever,Dr. Melissa,Emergency,2025-07-15,2025-07-22,7,92203,No,2.7,Yes
+10554,Allen Bailey,19,Female,Mumbai,ENT,Ear Infection,Dr. Vanessa,Emergency,2025-11-27,2025-12-05,8,33424,No,4.3,Yes
+10555,Paul Perez,33,Female,Delhi,Cardiology,Heart Attack,Dr. Stephanie,Normal,2025-02-06,2025-02-16,10,195721,Yes,4.1,Yes
+10556,Angela Haynes,90,Female,Indore,Cardiology,Chest Pain,Dr. James,Emergency,2025-07-19,2025-07-24,5,44742,No,3.7,No
+10557,Kimberly Edwards,89,Female,Delhi,Neurology,Epilepsy,Dr. Jacqueline,Normal,2025-04-26,2025-04-27,1,105774,No,4.2,No
+10558,Debra Parrish,69,Female,Delhi,Cardiology,Chest Pain,Dr. Melissa,Normal,2025-11-28,2025-11-30,2,100775,No,4.1,Yes
+10559,Ryan Clay,90,Female,Delhi,Cardiology,High BP,Dr. Richard,Normal,2025-12-05,2025-12-09,4,83347,No,2.7,No
+10560,Kevin Webb,76,Male,Indore,Dermatology,Skin Allergy,Dr. Michael,Normal,2025-01-19,2025-01-23,4,11649,Yes,4.5,No
+10561,Richard Colon,44,Male,Bhopal,General Medicine,Typhoid,Dr. Jennifer,Emergency,2025-08-19,2025-08-20,1,14710,No,2.8,No
+10562,Bryan Bishop,10,Male,Hyderabad,Orthopedics,Arthritis,Dr. John,Emergency,2025-10-24,2025-10-28,4,247434,No,4.1,No
+10563,Jenna Carter,2,Male,Hyderabad,Cardiology,Heart Attack,Dr. Tara,Emergency,2025-12-26,2026-01-06,11,39219,No,4.6,Yes
+10564,Joshua Anderson,9,Male,Delhi,General Medicine,Typhoid,Dr. Laura,Normal,2025-03-29,2025-04-12,14,159938,Yes,2.7,Yes
+10565,Michael Johnson,16,Male,Bhopal,ENT,Sinus,Dr. Tracy,Emergency,2025-12-14,2025-12-21,7,89996,Yes,4.0,No
+10566,Ruben Lyons,54,Male,Hyderabad,Neurology,Migraine,Dr. Susan,Normal,2025-05-21,2025-05-24,3,203587,Yes,3.6,Yes
+10567,Elizabeth Berry,21,Male,Indore,Orthopedics,Fracture,Dr. Scott,Emergency,2025-11-20,2025-11-30,10,103600,Yes,2.5,Yes
+10568,Jennifer Mcclure,61,Male,Mumbai,Pediatrics,Cold,Dr. Cheryl,Emergency,2025-12-22,2026-01-04,13,212681,No,3.8,No
+10569,Michele Bowers,77,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Wayne,Normal,2025-11-09,2025-11-21,12,14862,Yes,4.1,No
+10570,Michael Jones,25,Male,Pune,Oncology,Tumor,Dr. Wendy,Emergency,2025-01-03,2025-01-12,9,66771,No,4.7,Yes
+10571,Kenneth Petersen,7,Male,Delhi,General Medicine,Typhoid,Dr. Mark,Emergency,2025-12-04,2025-12-08,4,77463,No,3.7,Yes
+10572,William Fitzgerald,27,Female,Bhopal,Cardiology,Heart Attack,Dr. Johnathan,Normal,2025-11-27,2025-12-03,6,79727,No,2.6,Yes
+10573,Frederick Simpson,15,Male,Mumbai,Orthopedics,Fracture,Dr. Sharon,Normal,2025-01-15,2025-01-23,8,139978,No,3.5,No
+10574,Mark Ford,31,Female,Mumbai,Dermatology,Skin Allergy,Dr. Christian,Normal,2025-06-16,2025-06-20,4,30706,Yes,2.7,No
+10575,Mr. Jose Mendez Jr.,79,Female,Mumbai,Cardiology,High BP,Dr. Jessica,Normal,2025-03-16,2025-03-20,4,248240,No,2.8,Yes
+10576,Noah Hicks,5,Male,Bhopal,Oncology,Tumor,Dr. Margaret,Emergency,2025-04-14,2025-04-20,6,38347,Yes,4.6,No
+10577,Wendy Walker,38,Male,Hyderabad,ENT,Ear Infection,Dr. Dana,Emergency,2025-06-25,2025-06-29,4,237366,Yes,2.7,No
+10578,Jason Stone,36,Male,Hyderabad,Dermatology,Eczema,Dr. Kevin,Normal,2025-08-31,2025-09-14,14,126310,Yes,3.1,No
+10579,Michelle White,1,Female,Delhi,Dermatology,Eczema,Dr. Sean,Emergency,2025-03-18,2025-04-02,15,155392,No,4.3,Yes
+10580,Amanda Lewis,90,Male,Indore,ENT,Throat Infection,Dr. Robert,Normal,2025-07-21,2025-07-29,8,217262,Yes,2.7,Yes
+10581,Lindsay Welch,31,Male,Delhi,ENT,Ear Infection,Dr. Daniel,Normal,2025-03-09,2025-03-15,6,82539,No,2.9,No
+10582,Thomas Spears,52,Male,Bhopal,Cardiology,High BP,Dr. Hector,Normal,2025-08-26,2025-09-08,13,41339,Yes,4.7,Yes
+10583,Joseph Nguyen,38,Female,Bhopal,ENT,Throat Infection,Dr. Andrea,Emergency,2025-06-20,2025-06-29,9,13575,Yes,4.1,No
+10584,Susan Greene,7,Male,Indore,Cardiology,Chest Pain,Dr. Ian,Normal,2025-12-12,2025-12-18,6,237778,No,4.0,No
+10585,Alicia Walton,9,Male,Mumbai,Oncology,Cancer,Dr. Paul,Normal,2025-11-28,2025-12-07,9,189778,Yes,3.8,No
+10586,Corey Washington,35,Female,Bhopal,Dermatology,Eczema,Dr. Stephen,Emergency,2025-04-26,2025-05-02,6,97461,Yes,3.4,No
+10587,Diane Oconnell,61,Female,Indore,General Medicine,Typhoid,Dr. Kyle,Normal,2025-09-27,2025-10-11,14,37167,Yes,3.0,No
+10588,George Gordon,37,Male,Delhi,Neurology,Migraine,Dr. Lonnie,Emergency,2025-07-20,2025-08-04,15,51874,No,2.8,Yes
+10589,Carrie Evans,3,Female,Indore,General Medicine,Diabetes,Dr. Cynthia,Emergency,2025-04-15,2025-04-24,9,169436,No,3.4,No
+10590,Melissa Gilbert,30,Female,Indore,Cardiology,High BP,Dr. Joseph,Normal,2025-04-07,2025-04-09,2,10776,No,3.7,No
+10591,Corey Carter,40,Male,Bhopal,General Medicine,Viral Fever,Dr. David,Emergency,2025-10-18,2025-10-21,3,240479,No,3.4,No
+10592,Anthony Hansen,22,Male,Hyderabad,Cardiology,Heart Attack,Dr. Richard,Normal,2025-06-30,2025-07-05,5,124518,Yes,4.9,Yes
+10593,Jessica Valencia,74,Male,Indore,Orthopedics,Fracture,Dr. Mario,Normal,2025-03-01,2025-03-02,1,88001,No,3.0,Yes
+10594,Shannon Robles,70,Male,Pune,Oncology,Tumor,Dr. Steven,Normal,2025-03-17,2025-03-23,6,122552,Yes,4.8,No
+10595,Jeffrey Snyder,20,Male,Hyderabad,General Medicine,Diabetes,Dr. Erin,Normal,2025-08-23,2025-09-07,15,88943,No,3.7,No
+10596,Joseph Molina,15,Female,Delhi,Orthopedics,Arthritis,Dr. Bruce,Emergency,2025-08-15,2025-08-21,6,185655,Yes,3.3,No
+10597,Kevin Tate,8,Male,Pune,Dermatology,Acne,Dr. Patricia,Emergency,2025-07-02,2025-07-04,2,90555,No,3.0,Yes
+10598,Kyle Garrett,51,Male,Indore,General Medicine,Typhoid,Dr. Andrew,Normal,2025-12-10,2025-12-12,2,139162,Yes,4.8,No
+10599,Sarah Mcdonald,48,Male,Bhopal,ENT,Ear Infection,Dr. Deborah,Normal,2025-08-07,2025-08-13,6,106217,No,3.3,No
+10600,Robert Clayton,57,Female,Mumbai,Neurology,Migraine,Dr. April,Normal,2025-08-16,2025-08-28,12,113949,No,2.8,Yes
+10601,Dawn Wall,68,Female,Delhi,Orthopedics,Fracture,Dr. Michelle,Normal,2025-06-05,2025-06-13,8,232416,Yes,2.5,No
+10602,Carla Fox MD,73,Male,Mumbai,ENT,Ear Infection,Dr. Anthony,Emergency,2025-10-12,2025-10-20,8,191186,No,3.2,No
+10603,Jake Obrien,72,Female,Mumbai,Cardiology,High BP,Dr. Johnny,Emergency,2025-10-27,2025-11-01,5,134525,Yes,2.9,No
+10604,Lynn Ali,37,Female,Mumbai,General Medicine,Diabetes,Dr. Keith,Normal,2025-12-01,2025-12-12,11,239012,Yes,2.6,No
+10605,Robert Fields,75,Female,Pune,General Medicine,Diabetes,Dr. Elizabeth,Normal,2025-11-03,2025-11-15,12,99833,No,4.1,No
+10606,Phillip Mccullough,3,Female,Mumbai,Neurology,Stroke,Dr. Alexa,Emergency,2025-09-20,2025-10-02,12,155801,Yes,3.3,Yes
+10607,Thomas Gilbert,54,Female,Delhi,Oncology,Cancer,Dr. Amy,Normal,2025-01-28,2025-02-02,5,99676,No,3.8,Yes
+10608,Cassandra Ortiz,77,Male,Pune,Dermatology,Eczema,Dr. Stephanie,Normal,2025-04-04,2025-04-17,13,29774,No,4.6,No
+10609,Charles Carter,13,Female,Mumbai,Pediatrics,Asthma,Dr. Jeremy,Emergency,2025-12-24,2026-01-05,12,100033,Yes,3.8,No
+10610,Joyce Russell,21,Male,Mumbai,General Medicine,Viral Fever,Dr. Luis,Emergency,2025-06-24,2025-07-09,15,243757,Yes,4.6,Yes
+10611,Stephen Lam,17,Male,Indore,ENT,Sinus,Dr. Tracy,Normal,2025-02-09,2025-02-11,2,219655,No,4.2,Yes
+10612,Melinda Carroll,23,Female,Delhi,General Medicine,Typhoid,Dr. Randall,Emergency,2025-09-25,2025-10-08,13,94665,Yes,2.8,Yes
+10613,Jennifer Hicks,11,Female,Hyderabad,Dermatology,Acne,Dr. Richard,Emergency,2025-03-06,2025-03-10,4,39135,Yes,2.5,No
+10614,Diamond Harrison,85,Male,Indore,ENT,Ear Infection,Dr. Cindy,Emergency,2025-04-11,2025-04-13,2,13596,No,2.6,No
+10615,Christina Taylor,27,Male,Mumbai,Cardiology,Heart Attack,Dr. William,Normal,2025-03-05,2025-03-20,15,162756,Yes,2.7,No
+10616,Jennifer Jimenez,79,Male,Pune,Oncology,Tumor,Dr. Teresa,Emergency,2025-03-24,2025-04-07,14,136238,Yes,4.5,Yes
+10617,Dennis Cooper,69,Male,Hyderabad,Dermatology,Eczema,Dr. Madison,Emergency,2025-04-09,2025-04-14,5,50029,Yes,4.8,No
+10618,Shelley Fernandez,87,Male,Mumbai,Oncology,Leukemia,Dr. Alexander,Normal,2025-10-29,2025-11-01,3,120255,No,3.6,Yes
+10619,Chad Martinez MD,15,Male,Indore,ENT,Ear Infection,Dr. Jamie,Normal,2025-06-10,2025-06-12,2,127133,No,3.9,Yes
+10620,Jenny Thomas,37,Female,Pune,Neurology,Stroke,Dr. Gary,Normal,2025-09-10,2025-09-12,2,105868,No,3.1,No
+10621,Sharon Ruiz,61,Female,Mumbai,Pediatrics,Cold,Dr. Daniel,Emergency,2025-04-07,2025-04-21,14,23247,No,4.2,No
+10622,Mr. Michael Gonzalez,16,Male,Indore,General Medicine,Typhoid,Dr. Melissa,Normal,2025-12-04,2025-12-15,11,27283,Yes,4.4,Yes
+10623,April Hanson,77,Female,Delhi,Neurology,Stroke,Dr. Morgan,Emergency,2025-04-12,2025-04-18,6,57497,No,4.3,No
+10624,Andrew Wright,86,Female,Indore,Pediatrics,Asthma,Dr. Anna,Normal,2025-07-24,2025-07-30,6,129735,Yes,4.4,Yes
+10625,Steven Carlson,81,Male,Delhi,Neurology,Stroke,Dr. William,Emergency,2025-09-08,2025-09-16,8,65508,Yes,4.6,No
+10626,Susan Martinez,42,Male,Bhopal,Cardiology,Heart Attack,Dr. Christopher,Emergency,2025-07-15,2025-07-25,10,183049,Yes,4.2,No
+10627,Mrs. Samantha Gray,63,Female,Pune,General Medicine,Diabetes,Dr. Erica,Normal,2025-05-31,2025-06-11,11,135521,Yes,4.9,Yes
+10628,Scott Mcfarland,49,Female,Indore,ENT,Ear Infection,Dr. Susan,Emergency,2025-07-16,2025-07-24,8,87459,Yes,2.9,No
+10629,Jamie Cunningham,50,Female,Delhi,Orthopedics,Back Pain,Dr. Megan,Normal,2025-08-09,2025-08-12,3,86909,No,3.7,Yes
+10630,Robert Mann,49,Female,Bhopal,Cardiology,High BP,Dr. Zoe,Normal,2025-05-15,2025-05-23,8,159938,Yes,2.6,Yes
+10631,Lisa Brown,75,Male,Hyderabad,Orthopedics,Back Pain,Dr. Isabella,Normal,2025-06-28,2025-07-11,13,199525,No,2.7,No
+10632,Matthew Torres,32,Male,Mumbai,Oncology,Tumor,Dr. Melissa,Normal,2025-06-29,2025-06-30,1,178340,Yes,4.8,Yes
+10633,Jane Barr,69,Female,Delhi,Pediatrics,Fever,Dr. Brian,Normal,2025-06-22,2025-06-25,3,10167,No,3.9,No
+10634,Eugene Davis,3,Female,Indore,Pediatrics,Fever,Dr. Donald,Normal,2025-12-23,2025-12-31,8,159137,No,3.9,No
+10635,Pamela Wilkerson,64,Female,Mumbai,Neurology,Epilepsy,Dr. Melissa,Normal,2025-12-12,2025-12-16,4,93071,No,4.9,Yes
+10636,Linda Morgan,69,Male,Bhopal,General Medicine,Typhoid,Dr. Jenna,Normal,2025-02-08,2025-02-22,14,227910,Yes,3.2,No
+10637,Douglas Serrano,75,Male,Pune,Dermatology,Eczema,Dr. Anna,Normal,2025-02-17,2025-03-01,12,226298,No,2.7,No
+10638,Wanda Chang,84,Female,Pune,ENT,Ear Infection,Dr. Luis,Normal,2025-06-27,2025-07-10,13,25096,No,4.2,No
+10639,Eric Vazquez,66,Female,Hyderabad,Dermatology,Acne,Dr. Patrick,Emergency,2025-07-25,2025-07-30,5,168830,Yes,4.1,Yes
+10640,Angela Walters,60,Female,Hyderabad,General Medicine,Diabetes,Dr. Hailey,Normal,2025-12-05,2025-12-19,14,199565,Yes,3.8,No
+10641,Gina Dixon,88,Female,Indore,General Medicine,Diabetes,Dr. Lawrence,Normal,2025-05-04,2025-05-07,3,200673,No,4.7,Yes
+10642,Kelly Reed,83,Male,Bhopal,Dermatology,Acne,Dr. Mary,Emergency,2025-05-17,2025-05-31,14,80247,No,3.1,Yes
+10643,Kenneth Garza,40,Female,Indore,Dermatology,Skin Allergy,Dr. Caitlin,Normal,2025-05-06,2025-05-19,13,221853,No,4.1,Yes
+10644,Tracy Burns,34,Female,Hyderabad,Dermatology,Skin Allergy,Dr. Kenneth,Emergency,2025-05-20,2025-05-23,3,12639,Yes,4.9,No
+10645,Joseph Williams,39,Male,Indore,Cardiology,Heart Attack,Dr. Louis,Normal,2025-02-12,2025-02-18,6,162705,Yes,3.5,Yes
+10646,Daniel Hubbard,16,Female,Indore,Dermatology,Skin Allergy,Dr. Jessica,Emergency,2025-10-20,2025-11-01,12,136137,Yes,4.0,No
+10647,Robert Murillo,31,Female,Mumbai,Oncology,Leukemia,Dr. Sara,Emergency,2025-07-19,2025-08-01,13,201181,Yes,2.9,No
+10648,Nicolas Brooks,8,Female,Pune,General Medicine,Viral Fever,Dr. Jason,Normal,2025-05-11,2025-05-25,14,159528,Yes,3.3,No
+10649,Mandy Dillon,19,Female,Indore,General Medicine,Typhoid,Dr. Pamela,Normal,2025-05-07,2025-05-12,5,235538,No,2.6,Yes
+10650,Janet Perez,71,Female,Bhopal,Cardiology,Chest Pain,Dr. Donald,Normal,2025-12-10,2025-12-14,4,71317,Yes,3.8,Yes
+10651,Troy Richardson,33,Female,Delhi,General Medicine,Viral Fever,Dr. Tammy,Emergency,2025-01-05,2025-01-20,15,108016,No,3.0,Yes
+10652,Tyler Thomas,83,Female,Delhi,General Medicine,Typhoid,Dr. Latoya,Normal,2025-06-12,2025-06-27,15,217925,Yes,4.6,No
+10653,Juan Thompson,43,Female,Delhi,General Medicine,Typhoid,Dr. Kevin,Emergency,2025-07-31,2025-08-15,15,225505,No,3.8,No
+10654,Anita Strickland,59,Male,Delhi,ENT,Throat Infection,Dr. Belinda,Emergency,2025-10-08,2025-10-20,12,90660,No,4.5,Yes
+10655,Dennis White,41,Male,Delhi,Cardiology,High BP,Dr. Tina,Emergency,2025-04-13,2025-04-24,11,85097,Yes,3.8,Yes
+10656,Sharon Brown,18,Female,Mumbai,ENT,Sinus,Dr. Emily,Normal,2025-08-20,2025-08-28,8,233984,No,3.0,No
+10657,Jeffery Poole,74,Male,Delhi,Oncology,Cancer,Dr. Kyle,Emergency,2025-07-21,2025-08-05,15,103912,Yes,4.8,No
+10658,Mrs. Tonya Lyons,7,Female,Pune,Dermatology,Acne,Dr. Rebecca,Normal,2025-12-26,2026-01-09,14,49238,No,2.9,No
+10659,Laura Mcdowell,68,Female,Indore,Orthopedics,Arthritis,Dr. Robert,Normal,2025-03-02,2025-03-03,1,193372,Yes,3.1,Yes
+10660,Angela Montgomery,49,Male,Indore,Dermatology,Acne,Dr. Pamela,Emergency,2025-05-28,2025-06-09,12,134543,Yes,5.0,No
+10661,Alicia Brown,19,Male,Bhopal,Dermatology,Acne,Dr. Susan,Normal,2025-04-03,2025-04-10,7,212739,Yes,4.0,Yes
+10662,Erica Vargas,11,Male,Indore,Oncology,Leukemia,Dr. Vanessa,Emergency,2025-12-17,2025-12-28,11,125104,No,4.9,No
+10663,Meghan Rice,77,Female,Delhi,Dermatology,Eczema,Dr. Erin,Emergency,2025-07-16,2025-07-28,12,115963,Yes,2.6,Yes
+10664,Daniel Thomas,77,Male,Delhi,General Medicine,Viral Fever,Dr. Danielle,Normal,2025-11-07,2025-11-18,11,215304,No,3.3,No
+10665,Cheyenne Garcia,23,Female,Mumbai,Oncology,Cancer,Dr. Stephanie,Normal,2025-10-14,2025-10-15,1,157171,No,4.7,Yes
+10666,Philip Carpenter,19,Female,Delhi,Neurology,Stroke,Dr. Andrea,Normal,2025-12-30,2026-01-08,9,118489,Yes,4.9,No
+10667,Sarah Robinson,37,Female,Pune,Pediatrics,Asthma,Dr. Daniel,Normal,2025-07-04,2025-07-19,15,117744,No,3.6,Yes
+10668,Cindy Hicks,72,Female,Delhi,Oncology,Leukemia,Dr. Timothy,Emergency,2025-09-09,2025-09-22,13,44653,Yes,2.6,Yes
+10669,Charles Rose,60,Female,Delhi,Cardiology,High BP,Dr. Melissa,Normal,2025-05-14,2025-05-17,3,190063,Yes,3.6,No
+10670,Krista Phillips,19,Male,Bhopal,General Medicine,Viral Fever,Dr. Joshua,Emergency,2025-02-27,2025-03-13,14,193681,Yes,4.7,Yes
+10671,Mr. Samuel Mccullough,73,Male,Pune,Orthopedics,Arthritis,Dr. John,Emergency,2025-09-18,2025-10-02,14,76510,Yes,3.5,Yes
+10672,Melissa Johnson,43,Male,Bhopal,Dermatology,Acne,Dr. Theresa,Emergency,2025-12-13,2025-12-15,2,237618,No,3.4,Yes
+10673,Timothy Mitchell,85,Female,Indore,Oncology,Cancer,Dr. Robert,Normal,2025-01-15,2025-01-17,2,125647,Yes,3.3,Yes
+10674,Pamela Campbell,7,Female,Bhopal,General Medicine,Viral Fever,Dr. Christie,Emergency,2025-10-19,2025-10-22,3,60408,Yes,3.9,No
+10675,Amanda Carter,52,Male,Delhi,Neurology,Stroke,Dr. Eric,Emergency,2025-05-11,2025-05-14,3,67935,Yes,3.5,No
+10676,Tyrone Hall,39,Female,Indore,Pediatrics,Asthma,Dr. Daniel,Normal,2025-12-01,2025-12-04,3,36615,Yes,3.4,Yes
+10677,Shirley Waters,50,Female,Bhopal,Oncology,Leukemia,Dr. Ian,Normal,2025-04-13,2025-04-21,8,121770,Yes,4.4,No
+10678,Misty Morales,6,Female,Indore,Orthopedics,Back Pain,Dr. Timothy,Emergency,2025-11-19,2025-11-26,7,29365,Yes,4.8,Yes
+10679,Tina Hunt,62,Female,Mumbai,Pediatrics,Cold,Dr. Shawn,Emergency,2025-08-12,2025-08-14,2,242819,No,4.6,No
+10680,Anthony Sanchez,6,Male,Pune,Pediatrics,Asthma,Dr. Charlene,Normal,2025-01-25,2025-02-03,9,25062,No,2.7,No
+10681,Amanda Santos,65,Male,Delhi,Oncology,Tumor,Dr. Manuel,Normal,2025-10-27,2025-10-29,2,206496,Yes,4.5,No
+10682,Mary Melendez,39,Female,Pune,Cardiology,Heart Attack,Dr. Theresa,Normal,2025-08-02,2025-08-17,15,189648,No,4.1,No
+10683,Kerry Barnes,78,Female,Hyderabad,Oncology,Cancer,Dr. Terri,Emergency,2025-04-19,2025-04-22,3,25505,No,3.8,Yes
+10684,Stephanie Hansen,62,Female,Hyderabad,ENT,Ear Infection,Dr. Jennifer,Normal,2025-01-07,2025-01-10,3,176914,No,3.3,No
+10685,Matthew Estrada,2,Male,Delhi,ENT,Sinus,Dr. Stephanie,Emergency,2025-02-14,2025-02-17,3,40419,Yes,4.6,Yes
+10686,Matthew Hudson,56,Male,Delhi,General Medicine,Typhoid,Dr. Sharon,Normal,2025-03-16,2025-03-27,11,68381,No,2.9,No
+10687,Brent Landry,90,Female,Indore,Cardiology,Heart Attack,Dr. Anne,Normal,2025-03-27,2025-04-11,15,44956,Yes,4.6,Yes
+10688,Angela Morrow,51,Male,Bhopal,Dermatology,Acne,Dr. Joshua,Emergency,2025-10-19,2025-11-02,14,223585,Yes,4.1,No
+10689,Jessica Owen,71,Female,Delhi,ENT,Sinus,Dr. Kyle,Normal,2025-10-24,2025-11-03,10,196647,No,3.7,No
+10690,Marcus Thompson,55,Female,Pune,Dermatology,Eczema,Dr. Derrick,Emergency,2025-02-01,2025-02-10,9,9985,No,4.7,No
+10691,Stephanie Valenzuela,45,Female,Hyderabad,General Medicine,Diabetes,Dr. Bradley,Normal,2025-09-11,2025-09-21,10,174392,Yes,2.9,Yes
+10692,Phillip Lee,29,Female,Pune,General Medicine,Viral Fever,Dr. Joshua,Normal,2025-08-13,2025-08-17,4,138073,Yes,4.7,No
+10693,Jamie Castro,61,Male,Pune,ENT,Throat Infection,Dr. James,Emergency,2025-12-01,2025-12-13,12,99438,No,4.2,Yes
+10694,James Rice,78,Female,Delhi,General Medicine,Diabetes,Dr. Sarah,Normal,2025-03-30,2025-04-03,4,45976,No,3.3,Yes
+10695,Drew Webb,46,Male,Mumbai,Cardiology,Heart Attack,Dr. Katherine,Emergency,2025-07-03,2025-07-18,15,73369,Yes,3.3,Yes
+10696,Christian Bullock,34,Female,Bhopal,Dermatology,Skin Allergy,Dr. Samantha,Emergency,2025-10-15,2025-10-19,4,132497,No,4.7,Yes
+10697,Jeffrey Baird,15,Male,Pune,Cardiology,High BP,Dr. Roberto,Emergency,2025-08-23,2025-09-06,14,203119,Yes,3.8,Yes
+10698,Christopher Reyes,38,Female,Pune,Neurology,Migraine,Dr. Tanya,Normal,2025-07-05,2025-07-08,3,195932,Yes,2.9,No
+10699,Ruth Martinez,57,Female,Delhi,Oncology,Cancer,Dr. Donald,Emergency,2025-03-04,2025-03-18,14,57924,No,3.4,Yes
+10700,Jodi Boyd,54,Female,Hyderabad,Neurology,Stroke,Dr. Alex,Emergency,2025-07-10,2025-07-22,12,202878,Yes,4.4,No
+10701,Gregory Mcclure,53,Female,Pune,Dermatology,Skin Allergy,Dr. Jerry,Normal,2025-08-08,2025-08-15,7,245653,Yes,3.6,Yes
+10702,Amanda Small,22,Female,Delhi,Neurology,Migraine,Dr. Renee,Normal,2025-06-23,2025-06-29,6,110290,Yes,4.2,Yes
+10703,Tamara Willis,67,Female,Indore,Cardiology,Chest Pain,Dr. Michael,Normal,2026-01-01,2026-01-14,13,178109,No,4.3,No
+10704,Victoria Cantu DVM,79,Male,Hyderabad,Oncology,Cancer,Dr. Brian,Normal,2025-05-24,2025-06-08,15,143357,No,4.1,No
+10705,Paul Hughes,39,Male,Delhi,Oncology,Leukemia,Dr. Charles,Normal,2025-07-27,2025-08-09,13,56719,No,4.3,Yes
+10706,Matthew Hunter,40,Female,Hyderabad,Pediatrics,Fever,Dr. Jessica,Emergency,2025-02-17,2025-02-26,9,149647,Yes,2.6,No
+10707,Amanda Spence,8,Female,Bhopal,Dermatology,Acne,Dr. Michael,Normal,2025-08-05,2025-08-14,9,33951,Yes,2.6,Yes
+10708,Larry Mcmillan,59,Female,Mumbai,General Medicine,Viral Fever,Dr. Jeremy,Emergency,2025-10-21,2025-11-02,12,6366,No,3.2,Yes
+10709,Donald Martinez,67,Male,Bhopal,ENT,Throat Infection,Dr. Sophia,Normal,2025-05-07,2025-05-09,2,90943,Yes,2.9,No
+10710,Amber Diaz,17,Female,Mumbai,ENT,Ear Infection,Dr. Michelle,Normal,2025-02-17,2025-02-18,1,116381,Yes,3.4,No
+10711,Mary Hooper,55,Female,Hyderabad,ENT,Sinus,Dr. Ronald,Normal,2025-10-27,2025-11-04,8,171844,No,4.6,Yes
+10712,Debra Wiley,66,Male,Hyderabad,Orthopedics,Back Pain,Dr. Joshua,Emergency,2025-12-31,2026-01-08,8,38917,No,3.7,Yes
+10713,Duane Montoya,15,Male,Bhopal,Oncology,Cancer,Dr. Timothy,Normal,2025-11-05,2025-11-19,14,112117,Yes,3.8,Yes
+10714,Kenneth Mckenzie,63,Male,Mumbai,Oncology,Tumor,Dr. Joseph,Emergency,2025-07-11,2025-07-16,5,82065,No,2.6,No
+10715,Crystal Williamson,63,Male,Delhi,Pediatrics,Fever,Dr. Phyllis,Normal,2025-04-04,2025-04-18,14,198897,Yes,4.7,No
+10716,Stacey Lewis,44,Female,Indore,General Medicine,Typhoid,Dr. Logan,Emergency,2025-06-08,2025-06-18,10,123587,Yes,3.8,No
+10717,Zachary Osborn,42,Male,Pune,General Medicine,Typhoid,Dr. Bradley,Normal,2025-08-18,2025-08-21,3,232107,No,3.1,No
+10718,Luke Hines,57,Female,Hyderabad,Oncology,Leukemia,Dr. Dale,Emergency,2025-01-24,2025-02-04,11,238319,Yes,4.3,No
+10719,Mike Smith,80,Male,Pune,Neurology,Epilepsy,Dr. Willie,Emergency,2025-10-14,2025-10-16,2,55443,No,3.8,Yes
+10720,Nicole Williams,36,Male,Mumbai,Neurology,Epilepsy,Dr. Michael,Normal,2025-09-30,2025-10-03,3,9973,Yes,4.5,No
+10721,Austin Lewis,3,Female,Indore,ENT,Throat Infection,Dr. Sean,Emergency,2025-01-24,2025-02-01,8,230961,No,2.6,No
+10722,Victoria Martinez,70,Male,Bhopal,ENT,Sinus,Dr. Gerald,Emergency,2025-02-16,2025-02-18,2,31039,Yes,3.1,Yes
+10723,Dr. Joel Obrien V,8,Female,Mumbai,Orthopedics,Back Pain,Dr. Jesse,Emergency,2025-07-28,2025-08-08,11,49352,Yes,3.2,Yes
+10724,Jimmy Hernandez,34,Female,Delhi,Oncology,Cancer,Dr. Janet,Emergency,2025-07-31,2025-08-15,15,89991,Yes,3.1,Yes
+10725,Sarah Miller,35,Male,Bhopal,General Medicine,Typhoid,Dr. Aaron,Normal,2025-09-16,2025-09-23,7,35167,No,2.7,Yes
+10726,Wesley Carrillo,3,Female,Pune,ENT,Throat Infection,Dr. Jessica,Emergency,2025-04-30,2025-05-15,15,237300,Yes,4.4,Yes
+10727,Courtney Jensen,82,Male,Mumbai,Pediatrics,Asthma,Dr. Melanie,Normal,2025-07-28,2025-08-05,8,26996,Yes,4.5,No
+10728,Adam Moore,80,Female,Hyderabad,General Medicine,Diabetes,Dr. Dana,Emergency,2025-01-01,2025-01-15,14,126805,Yes,2.7,No
+10729,Zachary Edwards,49,Female,Hyderabad,Pediatrics,Asthma,Dr. Sharon,Emergency,2025-05-09,2025-05-23,14,183257,No,2.6,Yes
+10730,Shawn Ryan,18,Female,Indore,Pediatrics,Fever,Dr. Nathan,Emergency,2025-07-22,2025-08-03,12,37237,No,4.7,No
+10731,Julie White,85,Female,Bhopal,Pediatrics,Asthma,Dr. Nicole,Emergency,2025-08-20,2025-08-25,5,69468,No,4.9,No
+10732,Christina Frazier,1,Female,Delhi,Cardiology,Chest Pain,Dr. Matthew,Emergency,2025-03-10,2025-03-21,11,246764,Yes,3.5,No
+10733,Nichole Conner,84,Male,Pune,ENT,Throat Infection,Dr. Cheryl,Emergency,2025-02-11,2025-02-24,13,234826,No,4.2,No
+10734,Emma Rivera,90,Male,Delhi,ENT,Throat Infection,Dr. Eric,Normal,2025-07-03,2025-07-10,7,51448,No,4.8,No
+10735,James Mitchell,88,Female,Mumbai,Cardiology,Heart Attack,Dr. Susan,Emergency,2025-01-11,2025-01-24,13,78697,No,4.5,Yes
+10736,Samantha Bishop,64,Male,Delhi,Dermatology,Acne,Dr. Randy,Emergency,2025-07-05,2025-07-06,1,78598,No,2.8,No
+10737,Jeffery Garcia,73,Male,Delhi,General Medicine,Diabetes,Dr. Johnny,Emergency,2025-10-10,2025-10-14,4,177972,Yes,2.8,Yes
+10738,Sean Pennington,87,Female,Hyderabad,Pediatrics,Fever,Dr. Randy,Normal,2025-12-14,2025-12-15,1,186662,Yes,4.8,Yes
+10739,Lisa Robles,88,Female,Indore,Oncology,Tumor,Dr. Amber,Normal,2025-07-28,2025-08-02,5,36907,Yes,4.7,Yes
+10740,Linda Lee,41,Male,Indore,Cardiology,High BP,Dr. Jennifer,Emergency,2025-08-04,2025-08-13,9,122666,No,2.7,Yes
+10741,Sean Atkinson,32,Male,Mumbai,Dermatology,Eczema,Dr. Jeffery,Normal,2025-08-05,2025-08-07,2,245384,No,2.7,Yes
+10742,Robert Norman,76,Female,Bhopal,Cardiology,High BP,Dr. Aaron,Emergency,2025-08-10,2025-08-23,13,11297,Yes,3.7,No
+10743,Joshua Juarez,10,Female,Delhi,Cardiology,High BP,Dr. Mason,Normal,2025-09-24,2025-10-07,13,67060,Yes,2.7,Yes
+10744,William Salazar,89,Male,Mumbai,Cardiology,High BP,Dr. Heidi,Emergency,2025-06-10,2025-06-25,15,227217,No,2.6,No
+10745,Gregory Boone,7,Female,Indore,Neurology,Migraine,Dr. Ronald,Normal,2025-12-13,2025-12-14,1,151606,Yes,4.0,No
+10746,Heather Rodriguez,59,Female,Indore,Dermatology,Eczema,Dr. Johnny,Normal,2025-12-04,2025-12-14,10,7780,Yes,3.3,Yes
+10747,Andres Williams,14,Male,Delhi,General Medicine,Typhoid,Dr. Thomas,Emergency,2025-06-18,2025-06-28,10,55457,Yes,4.8,Yes
+10748,Gloria Brewer,80,Female,Mumbai,Pediatrics,Cold,Dr. Laura,Emergency,2025-08-04,2025-08-12,8,194955,Yes,4.5,Yes
+10749,Mary Patel,84,Female,Bhopal,Orthopedics,Back Pain,Dr. Michael,Emergency,2025-10-27,2025-11-03,7,139512,Yes,3.7,No
+10750,William Colon,85,Male,Delhi,Pediatrics,Cold,Dr. Dana,Emergency,2025-01-05,2025-01-14,9,158731,Yes,3.6,Yes
+10751,Donald Sullivan,44,Male,Hyderabad,Dermatology,Eczema,Dr. Brandy,Normal,2025-04-14,2025-04-27,13,22931,No,4.0,No
+10752,Frances Sandoval,21,Male,Indore,Oncology,Leukemia,Dr. John,Emergency,2025-06-03,2025-06-10,7,91145,No,3.0,Yes
+10753,Sarah Brown,28,Male,Indore,Dermatology,Eczema,Dr. Michael,Normal,2025-04-28,2025-05-06,8,168556,No,3.0,Yes
+10754,Jillian Thompson DVM,4,Male,Mumbai,Cardiology,High BP,Dr. Paul,Normal,2025-01-06,2025-01-08,2,98817,No,3.0,No
+10755,Steven Olson,23,Male,Bhopal,Cardiology,Heart Attack,Dr. Lori,Emergency,2025-04-12,2025-04-16,4,79475,No,4.6,Yes
+10756,Brittany Padilla,34,Male,Delhi,Orthopedics,Fracture,Dr. Kristin,Emergency,2025-01-12,2025-01-15,3,225956,No,4.1,Yes
+10757,Joseph Pruitt,48,Female,Hyderabad,Oncology,Cancer,Dr. Joshua,Emergency,2025-06-06,2025-06-14,8,67953,No,4.7,Yes
+10758,Matthew Lewis,25,Female,Hyderabad,Neurology,Migraine,Dr. Tina,Normal,2025-03-08,2025-03-21,13,54713,No,4.0,Yes
+10759,James Wong,69,Female,Mumbai,Cardiology,Chest Pain,Dr. Christopher,Normal,2025-10-28,2025-11-01,4,228985,Yes,2.6,No
+10760,Beverly Eaton,27,Male,Indore,Orthopedics,Arthritis,Dr. Keith,Emergency,2025-10-27,2025-11-11,15,133185,Yes,3.8,No
+10761,Catherine Chang,48,Female,Hyderabad,General Medicine,Typhoid,Dr. Randy,Normal,2025-08-26,2025-08-29,3,89364,No,3.2,No
+10762,John Johnson,58,Male,Indore,Cardiology,Heart Attack,Dr. Hayley,Emergency,2025-04-23,2025-05-08,15,58215,No,3.6,No
+10763,Maria Young,18,Male,Bhopal,Orthopedics,Back Pain,Dr. Christina,Normal,2025-05-11,2025-05-20,9,27219,No,3.1,Yes
+10764,Cheryl Monroe,58,Female,Indore,General Medicine,Typhoid,Dr. Ariel,Normal,2025-11-15,2025-11-21,6,116700,No,4.5,No
+10765,Savannah Zamora,30,Female,Hyderabad,Pediatrics,Cold,Dr. Pamela,Emergency,2025-01-13,2025-01-16,3,120785,No,4.8,No
+10766,Kristina Greer,10,Female,Delhi,Neurology,Stroke,Dr. James,Emergency,2025-04-27,2025-04-29,2,36087,No,3.0,No
+10767,Michelle Lucas,25,Male,Hyderabad,Pediatrics,Cold,Dr. Samantha,Normal,2025-12-16,2025-12-30,14,76949,Yes,4.4,No
+10768,Amanda Stevenson,84,Male,Indore,Oncology,Tumor,Dr. Anthony,Emergency,2025-07-27,2025-08-10,14,157031,No,3.1,Yes
+10769,Daniel Mosley,71,Female,Hyderabad,General Medicine,Diabetes,Dr. Aaron,Normal,2025-09-22,2025-10-02,10,211038,No,4.5,No
+10770,Carlos Morris,57,Female,Pune,Dermatology,Acne,Dr. Joseph,Emergency,2025-12-24,2025-12-31,7,59941,No,2.8,Yes
+10771,Jerry Padilla MD,85,Female,Bhopal,Pediatrics,Asthma,Dr. Julia,Emergency,2025-01-05,2025-01-13,8,217441,No,3.6,No
+10772,Justin Pugh,5,Male,Mumbai,Pediatrics,Cold,Dr. Danielle,Normal,2025-10-28,2025-10-29,1,153787,No,5.0,Yes
+10773,Mitchell Lee,61,Male,Bhopal,ENT,Ear Infection,Dr. Jennifer,Normal,2025-10-01,2025-10-08,7,54371,No,2.7,Yes
+10774,Daniel Wu,4,Male,Mumbai,Orthopedics,Fracture,Dr. Nancy,Emergency,2025-12-19,2025-12-29,10,133087,No,3.2,Yes
+10775,Cheyenne Ramirez,8,Female,Pune,Pediatrics,Asthma,Dr. Benjamin,Emergency,2025-09-26,2025-09-28,2,124187,Yes,3.3,No
+10776,Tina Tyler,54,Female,Hyderabad,ENT,Ear Infection,Dr. Steven,Emergency,2025-02-26,2025-03-01,3,145627,No,4.9,Yes
+10777,Brian Curry,86,Female,Mumbai,Orthopedics,Fracture,Dr. Stacy,Normal,2025-06-08,2025-06-15,7,219406,Yes,3.8,No
+10778,Bryan Holden,9,Female,Pune,Pediatrics,Fever,Dr. Mark,Emergency,2025-01-04,2025-01-07,3,121845,No,4.8,No
+10779,Leah Kirby,12,Female,Hyderabad,General Medicine,Viral Fever,Dr. Lori,Normal,2025-10-22,2025-10-23,1,198276,No,4.3,No
+10780,Danielle Barry,23,Female,Indore,ENT,Throat Infection,Dr. Diane,Normal,2025-03-31,2025-04-07,7,70309,Yes,4.2,Yes
+10781,Ashley Miller,21,Female,Hyderabad,ENT,Throat Infection,Dr. Luis,Normal,2025-01-23,2025-01-27,4,237139,Yes,4.2,Yes
+10782,Julia Moody,10,Male,Pune,General Medicine,Viral Fever,Dr. Madison,Normal,2025-10-11,2025-10-13,2,101660,No,3.6,No
+10783,Mark Phillips,10,Female,Indore,Dermatology,Eczema,Dr. Christina,Normal,2025-01-23,2025-01-31,8,12003,No,4.6,No
+10784,Tina Rivera,18,Female,Hyderabad,Cardiology,Heart Attack,Dr. Christine,Normal,2025-05-09,2025-05-11,2,190886,No,3.7,Yes
+10785,Denise Smith,36,Male,Mumbai,Dermatology,Eczema,Dr. Brett,Emergency,2025-08-13,2025-08-16,3,128414,Yes,2.9,Yes
+10786,Mr. Peter Mendoza,2,Female,Mumbai,ENT,Ear Infection,Dr. Ryan,Normal,2025-02-09,2025-02-20,11,205170,No,2.9,Yes
+10787,Kaitlin Rogers,82,Male,Indore,Dermatology,Acne,Dr. Taylor,Normal,2025-12-23,2025-12-24,1,224283,No,2.6,Yes
+10788,Ricardo Anderson,48,Male,Mumbai,Cardiology,High BP,Dr. Zachary,Emergency,2025-04-14,2025-04-29,15,70457,Yes,3.6,Yes
+10789,James Dickerson,29,Male,Hyderabad,Oncology,Cancer,Dr. George,Emergency,2025-12-15,2025-12-26,11,21560,Yes,2.6,Yes
+10790,Kathleen Munoz DDS,80,Male,Pune,Oncology,Tumor,Dr. Nathan,Normal,2025-10-15,2025-10-26,11,54688,No,2.8,Yes
+10791,Richard Tate,52,Female,Delhi,Neurology,Stroke,Dr. John,Normal,2025-06-15,2025-06-18,3,8930,Yes,3.6,Yes
+10792,Amber Campos,9,Male,Indore,Pediatrics,Asthma,Dr. Kelly,Normal,2025-11-16,2025-11-22,6,16518,No,5.0,Yes
+10793,Sara Barry,81,Female,Hyderabad,Orthopedics,Back Pain,Dr. Rachel,Emergency,2025-02-18,2025-02-28,10,90027,No,2.9,No
+10794,Jamie Mueller,75,Female,Indore,General Medicine,Diabetes,Dr. Theresa,Emergency,2025-06-21,2025-06-22,1,164523,Yes,3.1,Yes
+10795,Ricardo Smith,80,Male,Delhi,Pediatrics,Fever,Dr. Danny,Emergency,2025-08-08,2025-08-21,13,68844,No,3.7,Yes
+10796,Gina Hill,31,Female,Hyderabad,Orthopedics,Back Pain,Dr. Sandra,Normal,2025-04-15,2025-04-26,11,14937,Yes,3.2,Yes
+10797,Michael Ward,30,Female,Bhopal,ENT,Throat Infection,Dr. Jennifer,Emergency,2025-05-28,2025-06-10,13,11211,Yes,3.8,Yes
+10798,Anthony Guerra,24,Female,Hyderabad,Dermatology,Eczema,Dr. Anthony,Emergency,2025-07-15,2025-07-24,9,89315,Yes,4.7,Yes
+10799,Colton Patterson,17,Male,Mumbai,Dermatology,Skin Allergy,Dr. William,Emergency,2025-11-21,2025-11-24,3,58535,Yes,3.8,No
+10800,Sarah Young,32,Female,Mumbai,General Medicine,Viral Fever,Dr. Denise,Emergency,2025-03-26,2025-04-07,12,56782,No,3.2,No
+10801,Glen Harris,51,Female,Mumbai,Dermatology,Acne,Dr. Ralph,Normal,2025-09-04,2025-09-06,2,99262,No,3.6,No
+10802,Mr. Donald Oconnor,55,Male,Bhopal,Orthopedics,Back Pain,Dr. Dustin,Emergency,2025-01-11,2025-01-24,13,104986,Yes,3.1,No
+10803,Christopher Brown,78,Female,Delhi,Pediatrics,Cold,Dr. William,Normal,2025-05-26,2025-06-02,7,152362,Yes,4.3,Yes
+10804,Jennifer Hawkins,65,Female,Indore,Orthopedics,Fracture,Dr. Alexandra,Normal,2025-01-03,2025-01-04,1,230877,No,4.9,No
+10805,Kendra Clarke,10,Female,Delhi,ENT,Sinus,Dr. Steven,Emergency,2025-06-07,2025-06-18,11,159221,No,4.8,Yes
+10806,Autumn Meyer,45,Female,Hyderabad,Dermatology,Acne,Dr. Crystal,Normal,2025-05-11,2025-05-24,13,244360,Yes,4.1,No
+10807,Donna Francis,47,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Mark,Emergency,2025-09-02,2025-09-03,1,246557,No,4.0,Yes
+10808,Christopher Williams,21,Male,Delhi,Pediatrics,Fever,Dr. Marissa,Emergency,2025-11-05,2025-11-15,10,178697,No,3.5,Yes
+10809,Renee Wood,33,Female,Pune,Dermatology,Acne,Dr. Tara,Normal,2025-03-26,2025-04-09,14,116901,No,4.3,Yes
+10810,Kristen Kelly,45,Male,Bhopal,Neurology,Epilepsy,Dr. Shannon,Emergency,2025-10-21,2025-11-03,13,214068,No,4.2,Yes
+10811,Benjamin Fritz,90,Female,Pune,Orthopedics,Back Pain,Dr. Michelle,Normal,2025-01-01,2025-01-03,2,23308,No,4.3,Yes
+10812,Megan Cox,26,Female,Mumbai,Orthopedics,Back Pain,Dr. Joseph,Emergency,2025-04-06,2025-04-18,12,40214,No,3.9,Yes
+10813,Rebecca Smith,25,Female,Indore,Orthopedics,Fracture,Dr. Stephen,Normal,2025-01-31,2025-02-12,12,52901,Yes,4.7,Yes
+10814,Kristen Gregory,36,Male,Bhopal,Neurology,Stroke,Dr. Leslie,Emergency,2025-02-13,2025-02-20,7,37684,Yes,3.7,Yes
+10815,Angela Gonzalez,86,Male,Delhi,Cardiology,Heart Attack,Dr. Ryan,Emergency,2025-05-17,2025-05-30,13,6894,Yes,3.4,No
+10816,Lisa Morgan,44,Female,Hyderabad,General Medicine,Viral Fever,Dr. Frank,Normal,2025-06-22,2025-07-02,10,117578,No,4.5,No
+10817,Kyle Porter,43,Male,Delhi,ENT,Sinus,Dr. Stephanie,Normal,2025-11-09,2025-11-10,1,98330,No,4.3,Yes
+10818,Larry Rose,36,Male,Bhopal,Cardiology,Chest Pain,Dr. Kevin,Normal,2025-03-04,2025-03-18,14,144101,No,3.8,Yes
+10819,William Lewis,47,Male,Hyderabad,Cardiology,Chest Pain,Dr. Crystal,Normal,2025-06-14,2025-06-15,1,171140,No,3.1,No
+10820,Tammy Cummings,45,Female,Indore,ENT,Throat Infection,Dr. Colin,Emergency,2025-11-10,2025-11-23,13,26330,No,3.2,Yes
+10821,Antonio Charles,65,Male,Mumbai,Orthopedics,Arthritis,Dr. Michael,Normal,2025-10-20,2025-11-02,13,229605,Yes,3.3,No
+10822,Ashley Shaw,70,Male,Mumbai,Orthopedics,Back Pain,Dr. Jose,Emergency,2025-03-01,2025-03-09,8,178707,Yes,4.4,Yes
+10823,Andrew Oliver,42,Female,Bhopal,Neurology,Stroke,Dr. Sandra,Emergency,2025-01-15,2025-01-18,3,248532,No,4.2,Yes
+10824,Stephen Reyes,12,Female,Mumbai,Orthopedics,Arthritis,Dr. Wendy,Emergency,2025-11-21,2025-12-03,12,133964,No,3.4,No
+10825,Arthur Weber Jr.,38,Male,Delhi,ENT,Ear Infection,Dr. Kevin,Emergency,2025-04-25,2025-04-30,5,35327,No,4.4,Yes
+10826,Diane Clark,41,Female,Pune,Neurology,Epilepsy,Dr. Mike,Emergency,2025-07-08,2025-07-11,3,228695,No,2.7,Yes
+10827,Mr. Eric Hughes,87,Male,Pune,ENT,Sinus,Dr. Amy,Emergency,2025-06-13,2025-06-26,13,100688,Yes,3.5,No
+10828,Cynthia Wilson,64,Female,Mumbai,Oncology,Cancer,Dr. Lisa,Normal,2025-06-01,2025-06-15,14,62384,Yes,4.4,Yes
+10829,William Nichols,36,Female,Hyderabad,Oncology,Tumor,Dr. Rodney,Emergency,2025-09-15,2025-09-27,12,37365,No,3.2,No
+10830,Samantha Chapman,27,Male,Hyderabad,Cardiology,High BP,Dr. John,Emergency,2025-03-20,2025-04-03,14,192895,Yes,4.6,No
+10831,Heather Austin,51,Female,Indore,Pediatrics,Asthma,Dr. Cynthia,Normal,2025-03-23,2025-03-24,1,148639,No,4.4,No
+10832,Chad Gibson,25,Female,Delhi,Neurology,Epilepsy,Dr. Ashley,Emergency,2025-05-25,2025-05-30,5,187550,No,4.4,Yes
+10833,Jason Hernandez,18,Female,Hyderabad,Pediatrics,Cold,Dr. Scott,Normal,2025-12-02,2025-12-05,3,156298,No,4.7,Yes
+10834,Steve Vincent,2,Female,Hyderabad,Dermatology,Eczema,Dr. Amy,Emergency,2025-04-11,2025-04-23,12,175718,Yes,3.4,No
+10835,Isaac Collins,23,Male,Delhi,Orthopedics,Fracture,Dr. Ryan,Normal,2025-02-19,2025-02-25,6,129223,No,4.9,No
+10836,Ryan Barnes,63,Female,Hyderabad,Dermatology,Skin Allergy,Dr. Jillian,Emergency,2025-03-02,2025-03-06,4,108978,No,4.4,Yes
+10837,Elizabeth Weaver,84,Female,Bhopal,General Medicine,Typhoid,Dr. Tiffany,Emergency,2025-07-15,2025-07-20,5,170762,Yes,2.8,Yes
+10838,Susan West,29,Male,Pune,General Medicine,Typhoid,Dr. Jessica,Normal,2025-12-09,2025-12-24,15,138627,No,4.2,Yes
+10839,Joseph Hensley,56,Female,Pune,Orthopedics,Back Pain,Dr. Lauren,Emergency,2025-09-05,2025-09-16,11,189218,Yes,3.3,Yes
+10840,Timothy Clark,69,Female,Delhi,ENT,Throat Infection,Dr. Cynthia,Emergency,2025-01-11,2025-01-18,7,150767,Yes,4.9,Yes
+10841,Hunter Mack,72,Female,Bhopal,Orthopedics,Arthritis,Dr. Pamela,Emergency,2025-12-22,2025-12-25,3,6395,Yes,2.8,Yes
+10842,Kimberly Romero,5,Male,Delhi,Orthopedics,Fracture,Dr. Frank,Normal,2025-10-15,2025-10-20,5,228202,No,4.9,Yes
+10843,Lucas Brown,6,Female,Hyderabad,ENT,Throat Infection,Dr. Kelsey,Normal,2025-01-01,2025-01-05,4,83800,Yes,3.9,No
+10844,Steven Rogers,89,Male,Hyderabad,Oncology,Leukemia,Dr. Jessica,Emergency,2025-10-03,2025-10-12,9,60008,Yes,2.6,Yes
+10845,Patrick Guerra,28,Female,Bhopal,Pediatrics,Fever,Dr. Jay,Emergency,2025-03-10,2025-03-20,10,149722,No,2.7,No
+10846,Michael Strickland,52,Female,Delhi,Pediatrics,Cold,Dr. Candace,Normal,2025-11-29,2025-12-14,15,47813,No,4.9,Yes
+10847,Laura Stephens,82,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Laura,Normal,2025-11-19,2025-12-01,12,75621,Yes,3.5,Yes
+10848,Daniel Howard,32,Male,Bhopal,Oncology,Tumor,Dr. Kristen,Emergency,2025-07-14,2025-07-15,1,163232,Yes,4.2,No
+10849,Aaron Lewis,43,Female,Mumbai,Neurology,Stroke,Dr. Monique,Emergency,2025-11-24,2025-11-26,2,100110,No,2.5,No
+10850,Nicholas Cruz,16,Male,Pune,Dermatology,Acne,Dr. Chad,Normal,2025-02-23,2025-03-08,13,247649,No,2.7,No
+10851,Stephanie Matthews,7,Male,Bhopal,Pediatrics,Asthma,Dr. William,Normal,2025-05-19,2025-05-29,10,30969,Yes,3.4,No
+10852,Miss Andrea Scott,88,Male,Hyderabad,General Medicine,Typhoid,Dr. Courtney,Emergency,2025-03-07,2025-03-12,5,7489,Yes,3.4,No
+10853,William Nelson,32,Female,Hyderabad,Cardiology,Chest Pain,Dr. Debbie,Normal,2025-11-24,2025-11-30,6,190467,Yes,3.6,No
+10854,Brandon Williamson,67,Male,Bhopal,General Medicine,Typhoid,Dr. David,Emergency,2025-05-27,2025-06-01,5,117136,No,3.5,No
+10855,Brandon Hill,31,Male,Mumbai,Neurology,Epilepsy,Dr. Danielle,Emergency,2025-02-10,2025-02-12,2,196352,Yes,4.4,No
+10856,Brian Payne,18,Female,Indore,Cardiology,High BP,Dr. James,Emergency,2025-12-13,2025-12-22,9,249433,No,2.5,Yes
+10857,Erin Jones,45,Male,Hyderabad,Cardiology,Chest Pain,Dr. Jessica,Emergency,2025-08-06,2025-08-18,12,145070,No,4.9,Yes
+10858,Troy Meyer,66,Female,Delhi,Orthopedics,Fracture,Dr. Joshua,Normal,2025-07-07,2025-07-21,14,39948,No,3.4,No
+10859,Joseph Peterson,70,Male,Bhopal,Neurology,Stroke,Dr. Melissa,Normal,2025-12-14,2025-12-18,4,223032,No,3.2,Yes
+10860,Meghan Molina,28,Female,Hyderabad,Cardiology,Chest Pain,Dr. Jack,Emergency,2025-11-20,2025-11-30,10,108185,No,4.7,No
+10861,Allen King,43,Female,Bhopal,Cardiology,High BP,Dr. Jeffrey,Emergency,2025-01-04,2025-01-14,10,125679,Yes,3.4,Yes
+10862,Courtney Benson,63,Male,Delhi,ENT,Sinus,Dr. Adam,Emergency,2025-01-05,2025-01-07,2,117932,No,2.8,No
+10863,Katrina Thompson,61,Female,Bhopal,Cardiology,Heart Attack,Dr. Hannah,Normal,2025-12-03,2025-12-08,5,64269,No,3.6,Yes
+10864,Carmen Snyder,57,Male,Mumbai,Pediatrics,Fever,Dr. April,Normal,2025-08-13,2025-08-24,11,225032,No,2.5,Yes
+10865,Justin Baker,51,Female,Hyderabad,Neurology,Migraine,Dr. Shannon,Normal,2025-05-26,2025-05-27,1,40043,Yes,2.9,Yes
+10866,Tamara Wallace,63,Female,Hyderabad,General Medicine,Typhoid,Dr. Chad,Emergency,2025-05-17,2025-05-19,2,115387,No,4.4,No
+10867,Debbie Wilson,3,Male,Mumbai,ENT,Ear Infection,Dr. Charles,Normal,2025-02-26,2025-02-28,2,212804,Yes,4.4,Yes
+10868,James Clark,2,Female,Indore,Cardiology,Chest Pain,Dr. Jason,Normal,2025-06-25,2025-07-02,7,161522,No,3.7,No
+10869,David Hudson,24,Male,Bhopal,Dermatology,Eczema,Dr. Lisa,Emergency,2025-03-20,2025-04-01,12,139018,No,5.0,Yes
+10870,Heather Welch,14,Male,Mumbai,ENT,Ear Infection,Dr. James,Emergency,2025-08-31,2025-09-12,12,210184,Yes,2.8,No
+10871,James Flores,55,Male,Pune,Cardiology,High BP,Dr. Christina,Emergency,2025-04-09,2025-04-24,15,43327,Yes,4.7,No
+10872,Ronald Hayes,30,Male,Bhopal,ENT,Throat Infection,Dr. Karen,Normal,2025-06-06,2025-06-18,12,171018,No,2.7,No
+10873,Paula Brooks,36,Female,Hyderabad,Cardiology,High BP,Dr. Jennifer,Normal,2025-02-26,2025-03-03,5,100309,Yes,3.3,Yes
+10874,Meredith Baker,42,Male,Bhopal,Orthopedics,Fracture,Dr. Dustin,Normal,2025-01-01,2025-01-02,1,178127,No,4.8,Yes
+10875,Jennifer Diaz,43,Female,Delhi,ENT,Ear Infection,Dr. Anthony,Emergency,2025-05-10,2025-05-18,8,100310,Yes,4.2,Yes
+10876,David Fisher,76,Female,Mumbai,Oncology,Tumor,Dr. Robert,Normal,2025-07-05,2025-07-17,12,209159,Yes,4.0,Yes
+10877,Blake Wall,16,Male,Pune,Neurology,Migraine,Dr. Tim,Emergency,2025-11-19,2025-12-01,12,162767,Yes,4.3,Yes
+10878,Hayley Hansen,61,Male,Pune,Neurology,Epilepsy,Dr. David,Emergency,2025-11-13,2025-11-19,6,84030,Yes,2.8,No
+10879,Alyssa Jackson,58,Male,Indore,Pediatrics,Asthma,Dr. David,Emergency,2025-06-27,2025-07-12,15,100947,No,3.5,Yes
+10880,Traci Scott,38,Male,Pune,Orthopedics,Arthritis,Dr. Pamela,Emergency,2025-05-21,2025-06-02,12,38799,Yes,4.4,No
+10881,Tara Morales,10,Male,Indore,General Medicine,Typhoid,Dr. Lauren,Normal,2025-09-30,2025-10-14,14,139607,No,3.5,No
+10882,Rachel Robinson,28,Male,Pune,Dermatology,Skin Allergy,Dr. Diana,Normal,2025-01-02,2025-01-05,3,154919,No,3.3,Yes
+10883,Kristen Dodson,22,Male,Delhi,Pediatrics,Asthma,Dr. Tiffany,Emergency,2025-05-18,2025-05-27,9,36222,No,2.6,Yes
+10884,Gregory Roberts DDS,7,Male,Mumbai,Pediatrics,Fever,Dr. Timothy,Emergency,2025-05-19,2025-06-02,14,212256,Yes,4.1,No
+10885,William Austin,34,Male,Indore,Oncology,Cancer,Dr. Jeffery,Normal,2025-12-28,2026-01-12,15,148989,No,5.0,Yes
+10886,Audrey Kelley,3,Male,Hyderabad,Oncology,Cancer,Dr. Ashley,Normal,2025-05-24,2025-05-27,3,72105,No,4.7,Yes
+10887,James Mata,75,Female,Mumbai,General Medicine,Diabetes,Dr. Lawrence,Normal,2025-06-16,2025-06-21,5,58456,Yes,4.3,No
+10888,Alexandra Osborn,24,Female,Mumbai,Oncology,Cancer,Dr. Joshua,Emergency,2025-09-03,2025-09-05,2,135013,Yes,3.9,Yes
+10889,Michael Prince,23,Female,Hyderabad,Pediatrics,Fever,Dr. John,Emergency,2025-06-08,2025-06-11,3,237063,Yes,2.9,No
+10890,Jon Moore,68,Male,Hyderabad,Dermatology,Acne,Dr. Zachary,Emergency,2025-11-27,2025-12-04,7,31275,Yes,3.4,Yes
+10891,Edward George,17,Male,Delhi,Neurology,Migraine,Dr. Marie,Normal,2025-11-26,2025-12-11,15,16466,Yes,4.8,Yes
+10892,Robert Mcguire,44,Male,Mumbai,Cardiology,Heart Attack,Dr. Craig,Emergency,2025-10-05,2025-10-17,12,219500,No,4.4,No
+10893,Steven Brock,32,Male,Pune,Orthopedics,Back Pain,Dr. Scott,Normal,2025-06-19,2025-06-27,8,45504,Yes,2.6,Yes
+10894,Sean Roberts,54,Male,Delhi,Neurology,Epilepsy,Dr. Wayne,Emergency,2025-06-01,2025-06-03,2,139097,Yes,3.1,No
+10895,Mrs. Renee Marshall,88,Female,Hyderabad,Orthopedics,Back Pain,Dr. Melissa,Emergency,2025-12-02,2025-12-07,5,64214,No,2.9,Yes
+10896,Chase Giles,79,Female,Delhi,Dermatology,Skin Allergy,Dr. Jeffrey,Normal,2025-05-25,2025-05-31,6,24998,Yes,4.7,Yes
+10897,Dustin Hernandez,24,Female,Mumbai,Orthopedics,Back Pain,Dr. Brandon,Normal,2025-09-29,2025-10-05,6,162184,No,3.4,Yes
+10898,Nathan Jennings,34,Male,Delhi,Pediatrics,Cold,Dr. Kristin,Emergency,2025-12-05,2025-12-11,6,249549,Yes,3.3,No
+10899,Jay Zamora,15,Female,Hyderabad,General Medicine,Typhoid,Dr. Meghan,Normal,2025-09-02,2025-09-16,14,22645,Yes,2.7,Yes
+10900,Nicole Oneal,55,Female,Hyderabad,Orthopedics,Back Pain,Dr. Michelle,Normal,2025-06-30,2025-07-06,6,134553,No,2.8,Yes
+10901,Luis Green,69,Female,Pune,ENT,Sinus,Dr. John,Emergency,2025-10-09,2025-10-17,8,146229,No,2.7,No
+10902,Stephanie Hardy,1,Male,Delhi,Dermatology,Eczema,Dr. Carlos,Normal,2025-02-14,2025-02-18,4,99819,No,4.9,Yes
+10903,Joshua Ross,18,Female,Indore,Cardiology,High BP,Dr. Jennifer,Emergency,2025-07-04,2025-07-18,14,227646,No,3.1,Yes
+10904,Jonathan Holder,19,Female,Hyderabad,Cardiology,Chest Pain,Dr. Theodore,Emergency,2025-03-12,2025-03-14,2,187394,No,3.4,Yes
+10905,Christopher Vasquez,4,Male,Bhopal,Neurology,Stroke,Dr. Ian,Emergency,2025-11-01,2025-11-15,14,46464,Yes,3.1,Yes
+10906,Charles Morris,18,Female,Indore,ENT,Ear Infection,Dr. John,Normal,2025-04-04,2025-04-12,8,199919,No,3.6,Yes
+10907,Michelle Rice,83,Male,Pune,Pediatrics,Fever,Dr. Steven,Emergency,2025-03-21,2025-03-22,1,235990,Yes,2.5,No
+10908,Andre Rangel,74,Female,Hyderabad,General Medicine,Typhoid,Dr. Justin,Emergency,2025-12-31,2026-01-14,14,72647,No,4.8,No
+10909,Daniel Brown,28,Female,Pune,Neurology,Epilepsy,Dr. Mary,Emergency,2025-07-13,2025-07-16,3,199808,Yes,3.5,Yes
+10910,Matthew Perez,52,Female,Mumbai,General Medicine,Viral Fever,Dr. Michelle,Emergency,2025-06-10,2025-06-21,11,173267,No,4.1,Yes
+10911,Jerry Erickson,78,Female,Delhi,Pediatrics,Fever,Dr. Monica,Emergency,2025-02-23,2025-02-25,2,100080,No,2.9,Yes
+10912,Rebecca Duncan,40,Male,Pune,Neurology,Migraine,Dr. Tamara,Emergency,2025-11-02,2025-11-03,1,203317,Yes,3.1,Yes
+10913,Jessica Mcdonald,41,Male,Bhopal,Cardiology,Chest Pain,Dr. Brandon,Emergency,2025-09-05,2025-09-06,1,17595,No,4.4,No
+10914,Andrew Moreno,17,Male,Bhopal,Dermatology,Acne,Dr. Tara,Normal,2025-07-20,2025-08-01,12,98280,Yes,3.8,Yes
+10915,Alexandra Cook,5,Female,Mumbai,Cardiology,Chest Pain,Dr. Marcus,Emergency,2025-07-15,2025-07-23,8,158710,No,2.7,Yes
+10916,Thomas Shelton,21,Female,Indore,Dermatology,Skin Allergy,Dr. Matthew,Emergency,2025-12-15,2025-12-26,11,41926,No,3.2,No
+10917,Charles Wilson,27,Male,Mumbai,Cardiology,Chest Pain,Dr. Lauren,Normal,2025-12-16,2025-12-23,7,67681,Yes,4.5,Yes
+10918,Travis Johnson,59,Female,Mumbai,Pediatrics,Asthma,Dr. Sandra,Normal,2025-02-14,2025-02-22,8,29671,Yes,2.7,No
+10919,Andrea Shah,59,Female,Indore,Oncology,Cancer,Dr. Tracy,Normal,2025-02-06,2025-02-09,3,191293,No,4.1,Yes
+10920,Bianca Spencer,37,Female,Indore,Neurology,Epilepsy,Dr. Louis,Emergency,2025-09-07,2025-09-08,1,100282,No,3.4,No
+10921,Jason Sharp,58,Female,Hyderabad,Oncology,Cancer,Dr. Carrie,Emergency,2025-12-16,2025-12-23,7,137629,Yes,4.4,Yes
+10922,Krista Stewart,21,Female,Delhi,Cardiology,Heart Attack,Dr. Eric,Emergency,2025-02-23,2025-02-28,5,103519,No,4.7,Yes
+10923,John Preston,60,Male,Delhi,Oncology,Tumor,Dr. Thomas,Emergency,2025-08-28,2025-09-08,11,145277,Yes,4.8,No
+10924,Jesse Howell,41,Female,Pune,ENT,Ear Infection,Dr. Edward,Normal,2025-07-25,2025-07-31,6,21900,Yes,4.3,No
+10925,Angela Lyons,20,Female,Mumbai,Neurology,Stroke,Dr. Michael,Emergency,2025-08-21,2025-08-22,1,147889,No,3.9,No
+10926,Elizabeth Stewart,7,Male,Delhi,Cardiology,High BP,Dr. Darryl,Normal,2025-08-09,2025-08-17,8,60946,No,3.1,Yes
+10927,Ronald Hart,11,Female,Hyderabad,Neurology,Migraine,Dr. David,Normal,2025-02-05,2025-02-10,5,111186,No,3.8,No
+10928,Daniel Richards,55,Female,Bhopal,Orthopedics,Fracture,Dr. Garrett,Emergency,2025-02-17,2025-03-04,15,241359,Yes,3.4,No
+10929,Stephanie Williams,21,Female,Bhopal,General Medicine,Viral Fever,Dr. Rebecca,Normal,2025-10-02,2025-10-14,12,210483,Yes,3.9,Yes
+10930,Rachel York,19,Female,Hyderabad,Neurology,Epilepsy,Dr. Keith,Normal,2025-12-08,2025-12-18,10,166615,Yes,2.9,No
+10931,Diana Wilson,87,Female,Bhopal,Orthopedics,Back Pain,Dr. Spencer,Emergency,2025-06-12,2025-06-14,2,212622,No,4.9,Yes
+10932,Beverly Cook,28,Male,Indore,General Medicine,Typhoid,Dr. Melissa,Emergency,2025-10-24,2025-10-26,2,14564,No,3.0,Yes
+10933,Jacqueline Mckinney,47,Male,Bhopal,Dermatology,Eczema,Dr. Michelle,Normal,2025-10-23,2025-10-24,1,102060,Yes,4.2,No
+10934,Jill Tucker,70,Female,Pune,ENT,Sinus,Dr. Eric,Normal,2025-06-30,2025-07-06,6,222103,Yes,4.8,No
+10935,Jenna Walls,21,Female,Indore,ENT,Sinus,Dr. Nathan,Normal,2025-04-01,2025-04-10,9,160947,No,4.1,Yes
+10936,Katherine King,79,Female,Delhi,Neurology,Migraine,Dr. Lisa,Normal,2025-02-15,2025-02-26,11,9306,Yes,4.1,Yes
+10937,Nicholas Wong,59,Female,Delhi,Pediatrics,Cold,Dr. Kerri,Emergency,2025-04-19,2025-04-23,4,208654,No,4.9,No
+10938,Jorge Lewis,51,Male,Bhopal,General Medicine,Viral Fever,Dr. Stephen,Emergency,2025-11-27,2025-12-09,12,210687,No,3.2,No
+10939,Timothy Hale,54,Male,Delhi,Pediatrics,Cold,Dr. Kristen,Emergency,2025-12-11,2025-12-15,4,6089,Yes,4.5,No
+10940,Dana Sloan,72,Female,Mumbai,Oncology,Cancer,Dr. Donald,Normal,2025-10-20,2025-10-27,7,68394,Yes,4.5,No
+10941,Joan Ponce,52,Female,Pune,Orthopedics,Arthritis,Dr. Noah,Emergency,2025-07-19,2025-07-31,12,50538,No,3.1,Yes
+10942,Mary Nixon,81,Female,Pune,Neurology,Epilepsy,Dr. Julie,Emergency,2025-10-23,2025-11-05,13,107763,No,3.0,Yes
+10943,Sean Smith,76,Male,Delhi,Cardiology,High BP,Dr. Patricia,Emergency,2025-01-06,2025-01-17,11,206859,No,2.6,Yes
+10944,Austin Perez,24,Male,Hyderabad,General Medicine,Typhoid,Dr. David,Emergency,2025-11-20,2025-12-03,13,98879,No,3.0,Yes
+10945,Morgan Wolf,11,Male,Hyderabad,ENT,Sinus,Dr. Rebecca,Emergency,2025-12-04,2025-12-05,1,77080,Yes,2.8,Yes
+10946,Robert Long,24,Male,Delhi,Neurology,Migraine,Dr. Nicole,Normal,2025-05-25,2025-05-30,5,239515,No,4.8,Yes
+10947,Cory Pacheco,53,Male,Indore,ENT,Ear Infection,Dr. John,Emergency,2025-09-09,2025-09-22,13,10755,Yes,4.2,No
+10948,Denise Patton,24,Female,Delhi,Oncology,Leukemia,Dr. James,Emergency,2025-08-19,2025-09-01,13,47232,Yes,2.8,No
+10949,Heather Gardner,1,Male,Pune,Oncology,Tumor,Dr. Evan,Normal,2025-11-11,2025-11-21,10,148257,Yes,3.0,Yes
+10950,Kyle Boone,28,Female,Delhi,Cardiology,Chest Pain,Dr. Travis,Emergency,2025-09-20,2025-10-03,13,44936,Yes,3.3,Yes
+10951,Meredith Williams,36,Female,Mumbai,Neurology,Epilepsy,Dr. Jason,Emergency,2025-12-21,2025-12-24,3,75147,No,4.3,No
+10952,Deborah Williams,52,Male,Bhopal,General Medicine,Typhoid,Dr. Michael,Emergency,2025-09-11,2025-09-18,7,139389,Yes,4.2,No
+10953,Mrs. Jean Fleming,76,Female,Mumbai,ENT,Ear Infection,Dr. Amanda,Emergency,2025-10-26,2025-11-08,13,205919,No,3.6,No
+10954,Rachel Petersen,80,Male,Pune,ENT,Throat Infection,Dr. Tanya,Normal,2025-05-20,2025-06-03,14,88558,No,3.0,No
+10955,Donald Roberts,5,Female,Pune,Oncology,Leukemia,Dr. Caitlin,Normal,2025-02-02,2025-02-10,8,48843,No,4.0,No
+10956,Jose Miles,42,Female,Mumbai,ENT,Ear Infection,Dr. Laura,Normal,2025-02-28,2025-03-03,3,217085,Yes,2.7,No
+10957,Ashley Thomas,41,Male,Hyderabad,Oncology,Cancer,Dr. Anthony,Normal,2025-06-10,2025-06-12,2,7525,Yes,3.7,No
+10958,Katie Mills,78,Male,Pune,Dermatology,Eczema,Dr. Melissa,Emergency,2025-02-03,2025-02-10,7,79347,Yes,3.9,Yes
+10959,Manuel Owens PhD,41,Male,Mumbai,ENT,Throat Infection,Dr. Wendy,Emergency,2025-08-11,2025-08-17,6,218226,No,3.7,No
+10960,Susan Payne,77,Female,Pune,ENT,Ear Infection,Dr. Ashlee,Normal,2025-03-05,2025-03-13,8,49863,Yes,3.9,No
+10961,Daniel Banks,60,Female,Mumbai,Cardiology,Chest Pain,Dr. James,Normal,2025-10-22,2025-10-23,1,243981,Yes,4.7,Yes
+10962,Jeff Huynh,13,Female,Hyderabad,Oncology,Leukemia,Dr. Kaitlyn,Normal,2025-01-09,2025-01-11,2,128179,No,3.3,No
+10963,Russell Cox,64,Male,Indore,ENT,Ear Infection,Dr. Sarah,Normal,2025-10-12,2025-10-25,13,87096,No,3.7,Yes
+10964,Jason Morales,7,Male,Mumbai,Oncology,Leukemia,Dr. Shelley,Emergency,2025-02-22,2025-02-23,1,63724,No,4.7,No
+10965,Michael Roberts,48,Male,Hyderabad,Dermatology,Skin Allergy,Dr. Jennifer,Emergency,2025-02-15,2025-02-19,4,194820,No,4.7,Yes
+10966,Michael Hanson,43,Female,Bhopal,Neurology,Migraine,Dr. Anthony,Emergency,2025-06-05,2025-06-07,2,74134,Yes,4.0,Yes
+10967,Mary Gonzalez,53,Female,Hyderabad,Orthopedics,Back Pain,Dr. Ronald,Emergency,2025-03-17,2025-03-30,13,158126,Yes,3.9,No
+10968,Terry French,34,Female,Hyderabad,Pediatrics,Cold,Dr. Peggy,Emergency,2025-09-05,2025-09-09,4,29064,No,3.9,Yes
+10969,Stephanie Alvarado,8,Male,Delhi,Dermatology,Eczema,Dr. Kelly,Emergency,2025-02-09,2025-02-11,2,134657,No,4.5,Yes
+10970,Lauren Gonzales,76,Female,Bhopal,General Medicine,Diabetes,Dr. Brett,Normal,2025-06-24,2025-06-28,4,218384,Yes,4.6,Yes
+10971,Natalie Webb,80,Male,Indore,Orthopedics,Fracture,Dr. Jose,Emergency,2025-07-06,2025-07-13,7,123602,Yes,3.2,Yes
+10972,Kimberly Williams,60,Male,Hyderabad,Pediatrics,Asthma,Dr. Bethany,Emergency,2025-11-28,2025-11-30,2,43611,Yes,2.5,No
+10973,Dr. Lisa Castro,68,Female,Bhopal,Orthopedics,Back Pain,Dr. Danny,Normal,2025-01-15,2025-01-23,8,178509,Yes,4.8,Yes
+10974,Charles Coleman,65,Female,Pune,Oncology,Tumor,Dr. Brian,Normal,2025-04-19,2025-04-22,3,109052,Yes,3.6,No
+10975,Katherine Harvey,55,Male,Bhopal,Neurology,Migraine,Dr. Jenna,Emergency,2025-11-29,2025-12-06,7,196889,No,2.9,No
+10976,Devin Rhodes,7,Male,Delhi,General Medicine,Typhoid,Dr. Nicole,Emergency,2025-08-10,2025-08-12,2,183562,Yes,2.6,Yes
+10977,John Jones,36,Male,Pune,Pediatrics,Fever,Dr. Alicia,Normal,2025-02-03,2025-02-12,9,31484,No,3.5,Yes
+10978,Stacey Rollins,27,Female,Hyderabad,Pediatrics,Cold,Dr. Maria,Normal,2025-04-16,2025-04-19,3,210973,No,4.3,Yes
+10979,Jeff Nicholson,40,Male,Mumbai,Orthopedics,Arthritis,Dr. Michele,Normal,2025-12-25,2026-01-04,10,129979,Yes,2.9,No
+10980,Kathleen Carpenter,55,Female,Delhi,General Medicine,Diabetes,Dr. Rebecca,Emergency,2025-01-07,2025-01-18,11,129413,No,4.7,Yes
+10981,Jennifer Pena,1,Female,Mumbai,Cardiology,Chest Pain,Dr. Melissa,Normal,2025-06-30,2025-07-08,8,157871,Yes,2.6,Yes
+10982,Jesse Dominguez,19,Male,Delhi,Pediatrics,Fever,Dr. Bruce,Normal,2025-09-26,2025-10-05,9,48857,No,3.6,No
+10983,Tara Barrera,59,Male,Bhopal,Pediatrics,Asthma,Dr. Molly,Normal,2025-09-07,2025-09-12,5,100496,No,4.7,No
+10984,Robert Lee,82,Male,Mumbai,Neurology,Stroke,Dr. Samantha,Normal,2025-12-18,2025-12-27,9,195897,Yes,4.1,Yes
+10985,Daniel Clark,90,Female,Bhopal,Oncology,Tumor,Dr. Michael,Emergency,2025-01-16,2025-01-20,4,156410,Yes,3.0,No
+10986,Becky Brown,58,Male,Bhopal,Neurology,Stroke,Dr. Julie,Normal,2025-11-17,2025-11-28,11,147846,No,3.5,No
+10987,Frank Evans,67,Female,Pune,Pediatrics,Cold,Dr. Tina,Emergency,2025-04-08,2025-04-09,1,156916,No,4.5,No
+10988,Claudia White,88,Male,Indore,Pediatrics,Fever,Dr. David,Emergency,2025-01-05,2025-01-13,8,248068,No,4.1,Yes
+10989,Steven Hodge,38,Male,Indore,Pediatrics,Cold,Dr. Tom,Emergency,2025-05-28,2025-05-30,2,214658,Yes,3.2,Yes
+10990,Anna Myers,46,Male,Delhi,Cardiology,High BP,Dr. Brandi,Normal,2025-06-06,2025-06-07,1,117806,Yes,3.4,No
+10991,Daniel Smith,26,Female,Pune,Orthopedics,Fracture,Dr. Jesse,Emergency,2026-01-01,2026-01-06,5,42393,No,3.0,No
+10992,Tammy Sanchez,55,Female,Delhi,Oncology,Cancer,Dr. Rita,Normal,2025-12-14,2025-12-25,11,106250,No,4.0,Yes
+10993,Denise Evans,18,Male,Bhopal,ENT,Throat Infection,Dr. Stacy,Emergency,2025-06-15,2025-06-28,13,156563,No,3.9,No
+10994,Timothy Taylor,81,Female,Pune,Pediatrics,Fever,Dr. Ann,Emergency,2025-06-02,2025-06-12,10,248038,No,4.5,No
+10995,Madison Riddle,41,Female,Indore,Neurology,Migraine,Dr. Travis,Normal,2025-09-27,2025-10-05,8,186962,No,3.7,No
+10996,Steven Gray,54,Male,Mumbai,General Medicine,Diabetes,Dr. John,Normal,2025-10-14,2025-10-15,1,206004,Yes,4.0,No
+10997,Shawn Harris,38,Male,Indore,Orthopedics,Arthritis,Dr. Jose,Emergency,2025-10-06,2025-10-21,15,153261,No,4.2,No
+10998,Johnny Jackson,84,Male,Bhopal,General Medicine,Diabetes,Dr. Carol,Emergency,2025-02-13,2025-02-14,1,75824,No,3.9,No
+10999,Wendy Chapman,7,Male,Pune,Cardiology,Heart Attack,Dr. David,Emergency,2025-10-27,2025-11-07,11,138908,No,2.8,Yes
+11000,Miss Carrie Nguyen MD,63,Male,Delhi,Pediatrics,Asthma,Dr. Jamie,Emergency,2025-06-09,2025-06-21,12,6691,Yes,2.9,Yes
