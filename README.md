@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Executive Summary
+## 📌 Executive  Summary
 
 Modern hospital management requires real-time data visibility to handle fluctuating patient loads and resource constraints. This project provides **Apollo Hospital executive leadership** with a unified analytics suite that combines:
 - **Exploratory Patient Analytics**: Analysis of demography, admission types, disease prevalence, and average length of stay (LOS).
