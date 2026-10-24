@@ -89,11 +89,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 ---
 
-## 📜 License
 
- Distributed under the MIT License. See `LICENSE` for details.
-
----
 
 <div align="center">
   <sub>Designed & Developed by <b>Sharvesh Pandey</b> | Data Analyst & AI Specialist</sub><br/>
